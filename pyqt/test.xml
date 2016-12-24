@@ -1,0 +1,131 @@
+	I(d,s) = Id
+	<
+		Id = Ispec * (iff - ir)
+		<
+			Ispec = 2 * n * beta * VT * VT
+			<
+				n = 1.0 + GAMMA / (2.0*sqrt(PHI + VP + 4.0*VT))
+				<	
+					GAMMA=GAMMA
+					PHI=PHI
+					VP = VGprime - PHI - GAMMA * (sqrt(VGprime+(GAMMA/2.0)*(GAMMA/2.0))-(GAMMA/2.0))
+					<
+						VGprime = VG - VTO + PHI + GAMMA * sqrt(PHI)
+						<
+							VG = V(g)
+							VTO=VTO
+							PHI=PHI
+							GAMMA=GAMMA
+						/>
+						PHI=PHI
+						GAMMA=GAMMA
+					/>
+					VT = `P_K*Tdev /`P_Q
+					<
+						`P_K=`P_K
+						Tdev=if(Tdev<`TMIN+273.15) Tdev=`TMIN+273.15
+						     elseif(Tdev>`TMAX+273.15) Tdev=`TMAX+273.15
+							 else Tdev=Tamb+dt
+							<
+								Tamb=$temperature
+								dt=dt
+							/>
+						`P_Q=`P_Q
+					/>
+				/>
+				beta = KP * (W/L) * (1.0/(1.0 + THETA * VP))
+				<
+					KP=KP
+					W=W
+					L=L
+					THETA=THETA
+					VP = VGprime - PHI - GAMMA * (sqrt(VGprime+(GAMMA/2.0)*(GAMMA/2.0))-(GAMMA/2.0))
+					<
+						VGprime = VG - VTO + PHI + GAMMA * sqrt(PHI)
+						<
+							VG = V(g)
+							VTO=VTO
+							PHI=PHI
+							GAMMA=GAMMA
+						/>
+						PHI=PHI
+						GAMMA=GAMMA
+					/>
+				/>					
+				VT = `P_K*Tdev /`P_Q
+				<
+					`P_K=`P_K
+					Tdev=if(Tdev<`TMIN+273.15) Tdev=`TMIN+273.15
+						     elseif(Tdev>`TMAX+273.15) Tdev=`TMAX+273.15
+							 else Tdev=Tamb+dt
+							<
+								Tamb=$temperature
+								dt=dt
+							/>
+					`P_Q=`P_Q
+				/>
+			/>
+			iff = (ln(1.0+exp( x /2.0)))*(ln(1.0+exp( x /2.0)))
+			<
+				x=(VP-VS)/VT
+				<
+					VP = VGprime - PHI - GAMMA * (sqrt(VGprime+(GAMMA/2.0)*(GAMMA/2.0))-(GAMMA/2.0))
+					<
+						VGprime = VG - VTO + PHI + GAMMA * sqrt(PHI)
+						<
+							VG = V(g)
+							VTO=VTO
+							PHI=PHI
+							GAMMA=GAMMA
+						/>
+						PHI=PHI
+						GAMMA=GAMMA
+					/>
+					VS=V(s)
+					VT = `P_K*Tdev /`P_Q
+					<
+						`P_K=`P_K
+						Tdev=if(Tdev<`TMIN+273.15) Tdev=`TMIN+273.15
+						     elseif(Tdev>`TMAX+273.15) Tdev=`TMAX+273.15
+							 else Tdev=Tamb+dt
+							<
+								Tamb=$temperature
+								dt=dt
+							/>
+						`P_Q=`P_Q
+					/>
+				/>
+			/>
+			ir  = (ln(1.0+exp( x /2.0)))*(ln(1.0+exp( x /2.0)))
+			<
+				x=(VP-VD)/VT
+				<
+					VP = VGprime - PHI - GAMMA * (sqrt(VGprime+(GAMMA/2.0)*(GAMMA/2.0))-(GAMMA/2.0))
+					<
+						VGprime = VG - VTO + PHI + GAMMA * sqrt(PHI)
+						<
+							VG = V(g)
+							VTO=VTO
+							PHI=PHI
+							GAMMA=GAMMA
+						/>
+						PHI=PHI
+						GAMMA=GAMMA
+					/>
+					VD=V(d)
+					VT = `P_K*Tdev /`P_Q
+					<
+						`P_K=`P_K
+						Tdev=if(Tdev<`TMIN+273.15) Tdev=`TMIN+273.15
+						     elseif(Tdev>`TMAX+273.15) Tdev=`TMAX+273.15
+							 else Tdev=Tamb+dt
+							<
+								Tamb=$temperature
+								dt=dt
+							/>
+						`P_Q=`P_Q
+					/>
+				/>
+			/>
+		/>
+	/>

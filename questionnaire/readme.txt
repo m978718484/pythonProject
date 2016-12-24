@@ -1,5 +1,5 @@
-調查問卷程序說明
-腳本由 main.py（主程序） 及 question.txt 調查問卷內容文本構成
+調查問卷程序說明 python 3.4
+腳本由 questionnaire.py（主程序） 及 question.txt 調查問卷內容文本構成
 主要功能：
 1.自定義帶固定格式的問卷內容，
 2.實現單選題點選自動下一題，最後一題多選帶有提交按鈕，點提交后打印出所有題目對應的選項的

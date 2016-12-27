@@ -1,3 +1,4 @@
+50
 調查問卷程序說明 python 3.4
 腳本由 questionnaire.py（主程序） 及 question.txt 調查問卷內容文本構成
 主要功能：

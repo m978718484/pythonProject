@@ -4,6 +4,8 @@ import tkinter
 import tkinter.messagebox
 # 導入tkinter.font模塊 字體
 import tkinter.font
+# 導入sys模塊
+import sys
 
 # 創建Window類，相當於創建一個調查問卷應用
 class Window():
@@ -30,9 +32,9 @@ class Window():
         # Frame對象在窗體的位置
         self.frame.place(x=10, y=30)
         # 用於記住單選題的選項狀態
-        self.v = tkinter.StringVar()
+        self.v = tkinter.IntVar()
         # 設置單選項的初始值為未選中狀態
-        self.v.set("0")
+        self.v.set(0)
         # 用於記住多選題的選項狀態
         self.v1 = []
         # 調用 加載問卷題目及選項 方法
@@ -49,7 +51,7 @@ class Window():
             # 清空上一個題目的選項
             widget.destroy()
         # 設置當前題目單選項的初始值為未選中狀態
-        self.v.set("0")
+        self.v.set(0)
         # 遍歷題目的選項數組
         for text,value in currentshow[1]:
             # 如果當前題目是最後一個題目
@@ -136,3 +138,8 @@ class Window():
         self.root.title('调查问卷')
         # 呼出窗體
         self.root.mainloop()
+
+
+
+win = Window()
+win.mainloop()

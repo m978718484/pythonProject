@@ -1,0 +1,2042 @@
+Hybrid Satellite-Aerial-Terrestrial Networks for Public Safety
+A Multi-objective Particle Swarm Optimization for Service Composition 
+Sensing   Performance of Improved Cyclostationary Detector with MultipleCorrelated   Antennas over Nakagami Fading Channel
+Temporal   Entropy and Cognitive Information based Efficient Environment   AwarenessTechniques in Cognitive Radio Networks
+Efficient traffic allocation scheme for multi-flow distribution in heterogeneous networks 
+DSVM: A Buffer Management Strategy for Video Transmission in Opportunistic Networks 
+Privacy-Preserving Aggregation with Efficient Group Management for Participatory Sensing 
+How to Crowdsource Tasks Truthfully without Sacrificing Utility: Online Incentive Mechanisms with Budget Constraint 
+A Novel Algorithm to Optimize Sampling Rate for Compressed Sensing 
+COUPON: Cooperatively Building Sensing Maps in Mobile Opportunistic Networks 
+A   Guard-band-aware Channel Allocation Algorithm for Multi-channelCognitive   Radio Networks
+An adaptive social influence propagation model based on local network topology
+Optimization of Cluster-based Cooperative Spectrum Sensing in Cognitive Radio Networks with Soft Data Fusion 
+COUPON: A Cooperative Framework for Building Sensing Maps in Mobile Opportunistic Networks 
+Differentiation forwarding with hotspot 
+Frequency resource allocation strategy with Qos support in hybrid cellular 
+Differentiation forwarding with hotspot 
+An Efficient Broadcast Attack against NTRU 
+Reduction among Bracket Polynomials 
+Solving Random Subset Sum Problem by l p -norm SVP Oracle 
+Sparse Difference Resultant 
+Complex PI-symmetric nonlinear Schr&ouml;dinger equation and Burgers equation 
+On Computing Groebner Bases in the Rings of Differential Operators.
+An Efficient Algorithm for Computing Comprehensive Gr&ouml;bner System of a Parametric Polynomial System 
+Using a Bivariate Sparse Resultant to Find the Singularities of Rational Space Curves. 
+Differential Chow Form for Projective Differential Variety 
+Role of Moving Planes and Moving Spheres of Cyclides 
+Sparse Difference Resultant 
+Verified Error Bounds forIsolated Singular Solutions of Polynomial Systems 
+Subconstituents of orthogonal graphs of oddcharacteristic continued 
+Using a Bivariate Sparse Resultant to Find the Singularities of Rational Space Curves 
+Computing the multiplicity structure of an isolated singular solution: case of breadth one 
+An innovative transparent cranial window based on skull optical clearing 
+Correlation between hemodynamic and electrophysiological signals dissociates neural correlates of conflict detection and resolution in a Stroop task: a simultaneous near-infrared spectroscopy and event-related potential study 
+Co-registration method for photoacousetic imaging and laser speckle imaging 
+Correlation between hemodynamic and electrophysiological signals dissociates neural correlates of conflict detection and resolution in a Stroop task: a simultaneous near-infrared spectroscopy and event-related potential study 
+Novel Cell-Penetrating Peptides Based on alpha-Aminoxy Acids (vol 13, pg 73, 2012) 
+Differences between the vastus lateralis and gastrocnemius lateralis in the assessment ability of breakpoints of muscle oxygenation for aerobic capacity indices during an incremental cycling exercise 
+Tracking the down-regulation of folate receptor-alpha in cancer cells through      target specific delivery of quantum dots coupled with antisense oligonucleotide      and targeted peptide. 
+Multi-resolution Computing and 
+Hierarchical machine learning- 
+On the Quantum Query Complexit 
+Hierarchical Problem Solving a 
+Quotient Space Based Hierarchi 
+New learning strategies to neu 
+Robust Detection of Transform  
+Hinf control for Markov jump l 
+Learning Methodologies in Arti 
+Discovering patterns to extrac 
+On multivariate wavelets with  
+A Combined Maximum Entropy Lan 
+On Knowledge Reduction in Inco 
+Approximation of Walrasian equ 
+Supervisory Control of Fuzzy D 
+Similarity-based supervisory c 
+A unified framework for image  
+Reduced-order filtering with e 
+The structure analysis of fuzz 
+Knowledge transformation and f 
+RCC8 binary constraint network 
+Generalized Region Connection  
+Stability analysis and synthes 
+On topological consistency and 
+Robust Feature Classification  
+Partial recovery of quantum en 
+Rendering Soft Shadows using M 
+Approximated non-tensor pre-wa 
+A neuro-fuzzy controller for n 
+An output feedback jump fuzzy  
+Fuzzy reasoning model under qu 
+Learning-based Web Data Cleans 
+Select Strong Information Feat 
+Fast degree elevation and knot 
+A complete classification of t 
+Performance evaluation on a do 
+Comments on `Constrained contr 
+Design of reduced-order H1 fil 
+Comments on `Control of chaoti 
+A Fuzzy Sets Theoretic Approac 
+Geometry and convergence analy 
+On countable RCC models 
+Data Cleansing for Web Informa 
+Catalyst-assisted Probabilisti 
+Controller design for Markovia 
+A second order algorithm for o 
+Hinf control for fuzzy singula 
+An efficient and effective reg 
+Performance Evaluation for Ene 
+A theory of computation based  
+Identification and Distance Me 
+Discovering patterns to extrac 
+On minimal models of the Regio 
+Collective behavior of a small 
+Linguistic quantifiers modeled 
+A hybrid method for relation e 
+An efficient and effective reg 
+A sweepline algorithm for Eucl 
+Surface fitting based on a fea 
+Stability analysis and robust  
+Video Completion using Trackin 
+Surface Mosaics 
+The existence of quantum entan 
+Robust control of uncertain di 
+Observability and Decentralize 
+Knowledge Representation and R 
+Reduced-order Hinf filtering f 
+The quotient space theory of p 
+Quantum Size Effects on the Pe 
+Trangular and Fibonacci number 
+Room-Temperature Growth of Al  
+Electrochemical growth of thre 
+Uniform Pb nanowires of magic  
+Two-Dimensional Growth of Al F 
+Effect of sapphire substrate n 
+Thickness dependence of the su 
+Soft X-ray spectroscopy study  
+Length-dependent transport pro 
+Spontaneous Assembly of Ordere 
+Water adsorption on metal surf 
+In situ probing mechanical pro 
+Growth of single-domain monato 
+Sign changes of intrinsic spin 
+Dynamic formation process of B 
+Superconductivity modulated by 
+Resonance Raman scattering  of 
+Borderline magic clustering: T 
+Effect of oxygen adsorption on 
+Controlled growth of O-polar Z 
+Polarity determination of ZnO  
+Two-dimensional growth of Fe t 
+Direct synthesis of B-C-N sing 
+Influence of quantum size effe 
+Determination of the polarity  
+Adsorption and Vibrational Pro 
+Determination of anisotropic d 
+Defect characteristics of ZnO  
+Two-stage rotation mechanism f 
+Band structure and oscillatory 
+Two-step Growth of MgO Film on 
+Dynamic Ad-dimer twisting assi 
+Growth and magnetism of ultrat 
+Multiwall carbon nanotubes mad 
+Ice Tessellation on a Hydroxyl 
+Current Controlled Spin Revers 
+Adatom Ascending at Step Edges 
+Generation of spatially separa 
+Electronic structure of identi 
+Spin driving reconstruction on 
+Multichannel ballistic transpo 
+Adhesion modulation by quantum 
+Generalized electron counting  
+Experimental realization of th 
+Quantum Growth of Magnetic Nan 
+Thickness-dependent Metal-Insu 
+Growth, stability and morpholo 
+Recent studies of laboratory astrophysics at the Institute of Physics 
+ANALYTICAL AND NUMERICAL STUDIES OF PLASMA CURRENTS AND INVERSE BREMSSTRAHLUNG ABSORPTION UNDER EXTERNAL DC/AC ELECTRIC FIELDS OF ARBITRARY STRENGTH 
+Schemes for producing GeV proton beams and beyond by ultra-relativistic laser pulses 
+High energy density physics research in China 
+强激光脉冲驱动产生兆瓦级 THz 辐射方案的理论研究 
+Studies of high-energy particle acceleration at IOP 
+Filamentation of infrared and blue femtosecond laser pulses in air 
+Nanoparticle Induced Size-Dependent Protein Deformation for Ring-Like Membrane Protein of Light-Harvesting Antenna Complex (LH2) from Photosynthetic Bacteria Revealed by Ultrafast Spectroscopic Study 
+由时间分辨光谱研究揭示的 TiO2 纳米晶体光电及光催化界面性质的物理化学 
+Toward multi-100TW and fem cycles pulse by femtosecond Ti:sapphire laser 
+少周期脉冲激光载波包络相位的精确控制与阿秒 X 射线激光脉冲的产生 
+Prospect for THz radiation by difference frequency technique based a novel two-color tunable picosecond laser with 30mJ pulse energy 
+Conceptual design of generating relativistic laser intensity by coherently synthesized multi-beam high peak power femtosecond lasers 
+Carrier-envelope phase controlled 5-fs optical pulses for driving single attosecond pulses generation 
+高稳定高重复频率单块光学频率梳 
+超短脉冲 激光频率的线性及非线性扩展研究 
+High energy density physics research in China 
+Studies of Laser-Plasma Produced High Power THz Sources 
+Review of High Energy Density Physics Research in China 
+High energy density physics research in China 
+Fokker-Planck simulation of plasma currents under a DC electric field of arbitrary strength 
+飞秒脉冲激光研究进展 
+超短超强激光与等离子体相互作用中高能离子的产生 
+Theory and simulation of laser plasma acceleration and radiation 
+Studies on monoenergetic proton beam generation and THz emission in relativistic laser-plasma interaction 
+New progress on femosecond laser research-Toward multi-100TW, few cycles pulse and carrier envelope phase control 
+Study on fast electrons emitted from ultraintense laser-plasma interactions 
+中科院物理所超热电子的产生和输运新进展 
+Mechanism for collimation hot electron emission along surface 
+Investigation on novel particle beams and radiation sources in relativistic laser-plasma interactions at IoP,CAS,Beijing 
+Energy reservoir of filaments generated by fs laser propagation in air 
+Extreme non-linear optics produced by ultra-intense lasers 
+Intense THz emission from laser wakefields and quasi-monoenergetic electron bunches from laser interaction with solids 
+Recent progress of intense laser-plasma interactions at the Institute of Physics 
+Quasi-monoenergetic proton acceleration with thin solid targets irradiated by relativistic intense laser pulses in the phase-stable regime 
+Fast Electron Lateral Transport and Guiding Due to Surface Fields 
+Review of Energetic Particle Generation and Electromagnetic Radiation from Intense Laser-Plasma Interactions at the Institute of Physics, Chinese Academy of Sciences 
+Comment on "Generating High-Current Monoenergetic Proton Beams by a Circularly Polarized Laser Pulse in the Phase-Stable Acceleration Regime" Reply 
+Determination of the detection limit for a noncollinear optical parametric amplification-gated femtosecond time-resolved fluorescence spectrometer - Reply to the Comment on "Ultrasensitive femtosecond time-resolved fluorescence spectroscopy for relax 
+Recent progress in high field physics research at the Institute of Physics 
+A compact 355TW femtosecod Ti:sapphire laser facility and trend to high contrast ratio The fifth International Conference on Inertial Fusion Sciences and Applications 
+Design of highly directive Ni-like Ag x-ray laser at 13.9nm 
+磁化非均匀等离子体中的 THz 辐射研究 
+飞秒激光倍频的实验研究 
+激光等离子体微推进技术研究进展 
+High coupling coefficient generation in water confined laser plasma propulsion 
+Infrared Spectroscopic Discrimination between the Loop and α-Helices and Determination of the Loop Diffusion Kinetics by Temperature-Jump Time-Resolved Infrared Spectroscopy for Cytochrome c 
+Fingerprint Matching Based on Neighboring Information and Penalized Logistic Regression 
+Security-Enhanced Fuzzy Fingerprint Vault Based on Minutiae's Local Ridge Information 
+监督强化学习算法与强化学习算法比较 
+Tag-based Smoothing for Collaborative Filtering 
+基于数据驱动社会建模的组织行为预测 
+Adaptive Binarized Data Transformation for Bag-of-Features Model 
+An Adaptive Dynamic Programming Algorithm for Responsive Traffic Control System at Isolated Intersection 
+Risk Analysis of Time of Birth to the Hand-Foot-Mouth Epidemic 
+Linguistic dynamic systems for computing with words and granular computing 
+Keyphrase extraction from chinese news web pages based on semantic relations 
+A CAN and OSEK NM based siren for automobiles 
+A web portal for terrorism activities in China 
+Multiple approximate dynamic programming controllers for congestion control 
+Particle swarm optimized adaptive dynamic programming 
+Intelligent spaces: An overview 
+Properties of the third type of covering-based rough sets 
+平行交通系统的一个应用案例 
+土地利用对交通运行状况影响的计算实验研究 
+A Traffic Control Strategy Evaluation Platform based on Mobile Multi-agent Technology 
+Clustering-based locally linear embedding 
+Clustering-based Locally Linear Embedding 
+A dynamic control allocation method for unmanned aerial vehicles with multiple control effectors 
+Ramp metering based on on-line ADHDP (λ) controller 
+Modeling and Control for A Non-Linear Dynamics Hypersonic Aircrafts 
+Sequence matching for suspicious activity detection in anti-money laundering 
+Online communities: A social computing perspective 
+Automatic recognition of news web pages 
+人工电力系统与复杂大电网的运营和管理 
+Reply to: Comment on Design of a stable sliding-mode controller for a class of second-order under-actuated systems 
+Carbon nanotube (CNT) devices for high speed and microwave circuits 
+Carbon nanotube (CNT) high speed interconnects and microwave components 
+High-speed and microwave circuits based on Carbon nanotube (CNT) technology 
+Signal integrity (SI) and power Integrity (PI) problem of high-speed electronic systems 
+Technology of radio frequency system on package 
+Exetended dounlet bandpass filters implemented with microstrip resonator and full-/half-mode substrate intefgrated cavities 
+Interactive 3D Editing on Tile 
+A Similarity Computing Algorit 
+Quasi-physical Simulation of L 
+Some estimates of the height o 
+Navigation Path Extraction for 
+智能空间研究综述 
+Syndromic surveillance systems 
+Journal of Computer Science and Technology: Preface 
+Motion control of omnidirectional mobile manipulators (Part II) - Robust control 
+Motion control of omnidirectional mobile manipulators (Part I) - Modeling and control 
+生物特征模板保护 
+Protecting transportation infrastructure 
+Social computing 
+Resonant micro-cantilever chemical sensor with one-step synthesis of -COOH functionalized mesoporous-silica nanoparticles for detection of trace-level organophosphorus pesticide 
+Magnetoresistance behaviors of undeped and N-doped graphene grown by CVD method 
+Micromachining of Single Crystalline Silicon Nanowires on (111) Silicon Wafers 
+LABEL-FREE ELECTRICAL DETECTION OF DNA WITH CMOS-COMPATIBLE SILICON NANOWIRE BIOSENSOR ARRAYS, 
+The Few-layer Graphene’s Electrical Response to CH4 on Microheater, 
+Nano fabrication for nano effect and nano sensor, 
+InAs/InP量子点激光器的研究 
+Nano Fabrication Effects and sensors based on MEMS technology 
+低温InGaAs/InAlAs多量子阱的分子束外延生长与表征,强激光与粒子束 
+Alternating current Josephson effect in superconductor-graphene-superconductor junctions 
+Risk-driven Non-functional Requirement Analysis and Specification 
+A Succinct and Efficient Implementation of a 2^32 BDD Package
+Regression mutation testing 
+Is This a Bug or an Obsolete Test? 
+An Empirical Study of Execution-Data Classification Based on Machine Learning
+Two New Local Search Strategies for Minimum Vertex Cover
+Model-based Management of Service Composition 
+Quality Driven Design of Program Frameworks for Intelligent Sensor Applications 
+Improving WalkSAT for Random k-SatisfiabilityProblem with k > 3 
+Product assignment recommender 
+Search-Based Inference of Polynomial Metamorphic Relations for Scientific Programs 
+Internet-Based Evaluation and Prediction of Web Services Trustworthiness
+Towards Automatic Tagging for Web Services
+Automating Presentation Changes in Dynamic WebApplications via Collaborative Hybrid Analysis
+Probabilistic Alternating-Time Temporal Logic of Incomplete Information and Synchronous Perfect Recall
+Solving Difficult SAT Problems by Using OBDDs and Greedy Clique Decomposition.
+Tuning Adaptive Computations for the Performance Improvement of Applications in JEE Server 
+Exploiting ConsumerReviews for Product Feature Ranking
+A data access framework for service-oriented rich clients
+Energy-Aware GPU Programming at Source-Code Levels
+Data-Driven Composition of Service-Oriented Situational Web Applications
+PARRAY: A Unifying Array Representation for Heterogeneous Parallelism 
+Value-passing CCS with noisy Channels
+MR-Tree, an Efficient Index for Map-Reduce 
+Formalizing Hybrid Systems with Event-B. Proc 
+Modeling and Verifying the Ariadne Protocol Using CSP 
+Eliciting Security Requirements in the Commanded Behavior Frame: An Ontology based Approach 
+Spatio-Temporal UML profile for Cyber-Physical Systems 
+Formal Specification for Transportation Cyber Physical Systems 
+Towards the semantics for web service choreography description language 
+Cryptanalysis of a Certificateless Multi-Proxy Signature Scheme 
+Trustability Improvement of an Automatic Train Protection System.  International Conference on Computer 
+MR-Tree: a Efficient Index for Map-Reduce 
+Linking operational semantics and algebraic semantics for a probabilistic timed shared-variable language 
+CSP is a retract of CCS 
+Dhrubajyoti Kalita: Automatic RTL Test Generation from SystemC TLM Specifications 
+MDM: A Mode Diagram Modeling Framework for Periodic Control Systems 
+基于符号数值混合计算的混成系统 
+N-fold Darboux transformation and new soliton solutions of one KdV6 equation 
+Hybrid MARTE Statecharts 
+Continuous Ranking on uncertain streams 
+Continuous Ranking on uncertain streams 
+Two-photon excited fluorescence from colloidal quantum dots on SiN photonic crystals 
+Recent advances in ultrafast all-optical signal processing and generation 
+Multilayered type-II GaSb/GaAs self-assembled quantum dot structure with 1.35μm light emission at room temperature 
+Multi-point defect single-fundamental-mode photonic crystal vertical cavity surface emitting laser 
+Hybrid III -V/silicon single-mode laser with periodic microstructures 
+Lateral cavity photonic crystal surface emitting lasers with ultralow threshold and large power 
+A Background Proportion Adaptive Lagrange Multiple Selection Method for Surveillance Video on High Eeffecient Video Coding (HEVC) 
+Overview of the IEEE 1857 Surveillance Groups 
+Fast Multi Reference Frame Motion Estimation For High Efficienty Video Coding 
+<span class="title2">Multi-stage vector quantization towards low bit rate visual search</span> 
+Smooth Representation Clustering 
+High order total variation method for interior tomography 
+Rectification of Optical Characters as Transform Invariant Low-rank Textures 
+Jigsaw: Indoor Floor Plan Reconstruction via Mobile Crowdsensing 
+纹理属性保持的三维网格模型简化算法 
+Towards compact topical descriptors 
+Distribution and rendering of real-time scene based on the virtual reality system 
+Image Primitive Coding and Visual Quality Assessment 
+Head-Related Transfer Function Measurement
+Adaptive figure-ground classification 
+基于移动终端的地形场景可视化数据调度算法 
+PUMS: the Architecture of the interactive System of Shape Design and Simulation 
+基于分布式虚拟现实环境的社会信息组织与分发系统 
+How slow is Shannon's reconstruction for bandlimited&nbsp;signals?
+Manifold regularized multitask learning for semi-supervised multi -label image classification 
+The order of convergence for Landweber Scheme with α,β –rule 
+Representing Visual Objects in HEVC Coding Loop, IEEE Journal on Emerging and Selected Topics in Circuits and Systems 
+基于位置的多线索可视化显示 
+Interactive Stereoscopic Video Conversion 
+Transform invariant text extraction 
+A Compact Representation for Compressing Converted Stereo Videos
+Ensemble Manifold Regularization 
+Dielectric and Magnetic Properties of Co2O3 Modified 0.4PZT+0.6NiCuZn-Ferrite Composites 
+Laser induced thermoelectric voltage effect in Pb(Zr0.3Ti0.7)O-3 ferroelectric thin film 
+Crystal structure and magnetic properties of hard magnetic Sm2Fe17N delta thin films with Co substitution 
+Real-time evolution of tunneling magnetoresistance during annealing in CoFeB/MgO/CoFeB magnetic tunnel junctions 
+Preparation, characterization and properties of polyaniline-barium ferrite nanocomposite 
+Y3+ doping effect on the ferromagnetism of Ce0.97Co0.03O2-delta thin films on Al2O3 (0001) substrates 
+A white organic light emitting diode based on anthracene-triphenylamine derivatives 
+Growth of ZnO nanoparticles at low temperature and optical properties 
+Electrical and magnetic properties of low-temperature sintered xBa(0.6)Sr(0.4)TiO(3) + (1-x)Nia(0.2)Cu(0.2)Zn(0.62)O(Fe2O3)(0.98) composite ceramics 
+Electrical and magnetic properties of low-temperature sintered xBa(0.6)Sr(0.4)TiO(3) + (1-x)Nia(0.2)Cu(0.2)Zn(0.62)O(Fe2O3)(0.98) composite ceramics 
+Virtual Grasping for Virtual A 
+Huge Texture Mapping for Real- 
+Navigation Path Extraction for 
+Simple and Rapid Collision Det 
+Poisson shape interpolation 
+Simultaneous Segmentation and  
+Modified affine arithmetic in  
+HIVE: a Highly Scalable Framew 
+Bin packing and covering probl 
+Computing Variation Modes for  
+Improved algorithms for two si 
+Modified affine arithmetic is  
+Image-Based Walkthrough over I 
+Topology-free cut-and-paste ed 
+Multi-Projector Tiled Display  
+Synthesizing trees from sample 
+Hardware-Accelerated Adaptive  
+A Divide-and-Conquer Algorithm 
+Geometry based connectivity co 
+Tour Into the Picture using Re 
+Flexible concurrency control f 
+Non-uniform Differential Mesh  
+Linear time algorithms for par 
+Realistic Virtual Hand Modelin 
+A Simultaneous Framework for R 
+Generalized NURBS Curves and S 
+Semi-online problems?with inex 
+A Survey of Multi-Projector Ti 
+A Similarity Computing Algorit 
+Robust Camera Motion Estimatio 
+The global occlusion map: A ne 
+Interpolatory Sqrt(2)-Subdivis 
+Clustering method for fast def 
+Interactive Collision Detectio 
+Direct incremental transmissio 
+MIVAS: A Multi-modal Immersive 
+Practical super-resolution fro 
+Proactive Multi-path Routing 
+Building Chinese Ancient Archi 
+A Unified Approach for Fairing 
+Real-time ray casting renderin 
+Appearance Manifolds for Model 
+A Note on the paper in CAGD (2 
+A New interpolatory subdivisio 
+Multi-level Differential Surfa 
+Fast natural image matting in  
+Rendering with Spherical Radia 
+Optimization techniques for as 
+Illumination-Dependent Texture 
+A robust algorithm for feature 
+Cubic Algebraic Curve Based on 
+Intersection Fields for Intera 
+Fast photo-realistic rendering 
+3D Surface Filtering Using Sph 
+An Approximate Image-Space App 
+Real-time Voxelization for Com 
+Automatic and robust Segmentat 
+Preemptive semi-online schedul 
+Visual simulation of weatherin 
+Bézier曲线到Wang-Ball曲线的转 
+三角网格上离散曲率估计方法的比 
+Elliptical weighted average su 
+Weighted inverse minimum spann 
+CAM System for Filament Windin 
+The proof of Hermann's conject 
+Optimal on-line algorithms for 
+A new method for automatically 
+A Method of Directed Texture S 
+Constructing iterative non-uni 
+Real time Soft Shadows in Dyna 
+Constrained Bézier curves’ b 
+Modified affine arithmetic in  
+Interactive mesh deformation w 
+Realistic synthesis of cao shu 
+Sqrt(2) Subdivision for Quadri 
+Convolution surfaces for arcs  
+Strictly non-blocking multirat 
+Geometrically based potential  
+Single machine scheduling with 
+IBCD: A fast collision detecti 
+BRDC: Binary representation of 
+Interval B-spline Curve Evalua 
+Parameterization for fitting t 
+Multi-degree reduction of NURB 
+An efficient line clipping alg 
+Subspace Gradient Domain Mesh  
+Skeleton-driven 2D distance fi 
+Analytical methods for polynom 
+Large mesh deformation using t 
+A comparison of truncated tota 
+Constrained Multiresolution Fa 
+Volume Constrained Smoothing M 
+A Novel Unified Image Editing  
+Sqrt(2)-subdivision for quadri 
+As-Consistent-As-Possible Comp 
+Geometric Signal Compression 
+Modelling and Rendering of Rea 
+Poisson shape interpolation 
+Decorating Surfaces with Bidir 
+Vector entropy imaging theory  
+An algorithm for LOD by mergin 
+RBF-based texture mapping 
+Geometric meanings of the para 
+B-Spline free-form deformation 
+Fast Display of Large-scale Fo 
+Hierarchical surface fragments 
+Total Positivity and Progressi 
+Variational geometry based pre 
+Subdivision interpolating impl 
+Watermarking on 3D mesh based  
+Parametric representation of a 
+Optimal semi-online preemptive 
+Bernoulli embedding model and  
+Fast Example-based Surface Tex 
+Shell radiance texture functio 
+G3 continuous curve modeling w 
+利用作用深度信息提高正电子断层 
+层次深度拼图集：一种新的树木快 
+全局遮挡图 
+Prototype modeling from silhou 
+Conversion and evaluation for  
+Two-handed assembly with immer 
+Automatic image-based pencil s 
+Fast normal map generation for 
+Computation of lower derivativ 
+Poisson developable surfaces 
+View Dependent Ray Shells: A N 
+Preemptive online algorithms f 
+The center location improvemen 
+Mesh Editing with Poisson-Base 
+Preemptive semi-online schedul 
+Image-based synthesis of Chine 
+Preemptive machine covering on 
+Parametric representations of  
+Better on-line algorithms for  
+Anti-aliased Rendering of Wate 
+Convolution surfaces for line  
+A mesh reconstruction algorith 
+Developable algebraic surfaces 
+Sliding mode control with bounded L-2 gain performance of Markovian jump singular time-delay systems 
+Stabilisation of time-varying linear systems via Lyapunov differential equations, International Journal of Control 
+L ∞ and L 2 semi-global stabilization of continuous-time periodic linear systems with bounded controls 
+Track following control of dual arm freeflying space manipulator 
+Distributed collaborative estimation for jump Markov nonlinear systems with quantized communication 
+New delay-dependent stability criteria for linear time-delay systems with two additive time-varying delay components 
+A Propagation-Delay-Tolerant MAC Protocol with Adaptive Reservation for Satellite Communications 
+Rao-Blackwellized H-infinity particle filtering for target tracking 
+Distributed Robust Consensus Control of Uncertain Multi-Agent Systems，Proceedings of the 16th International Symposium on Artificial Life and Robotics 
+Robust L2-L∞ Consensus Control of the Second-Order Multi-Agent Systems with Time-Delay 
+Discrete-Time Iterative Learning Control for Relative Degree Systems: A 2-D Approach, Proceedings of the 16th International Symposium on Artificial Life and Robotics 
+Adaptive Model Matching Control of Non-Square Multiple-Output-Delay Systems 
+A Class of Fast Unscented Kalman Filtering Algorithms 
+L2-Linfty Filter Design for Neutral Stochastic Systems with Interval Delays 
+Conducted Interference Simulation for DC-DC Switching Power Supply 
+Simulation method for PCB radiated emission based on combination of electromagnetic theory and circuit 
+Non-Fragile Trajectory Tracking Control of Nonholonomic Mobile Robots 
+Risk-sensitive multiple model particle filter for jump Markov nonlinear systems 
+Field-of-view constrained guidance algorithm for -V-bar constant thrust departure 
+New interacting multiple model algorithms for the tracking of the manoeuvring target 
+Using QoS-Contracts to Drive Architecture-Centric Self-Adaptation 
+Enabling On Demand Deployment of Middleware Services in Componentized Middleware 
+A lightweight Monitoring framework for Embedded systems 
+VIDA: Visual Interactive Debugging 
+An Optimization Strategy to Feature Models' Verification by Eliminating Verification-Irrelevant Features and Constraints 
+A Context-aware Selection Mechanism for Prediction Algorithms in Web Service QoS Prediction 
+Jonathan de Halleux and Hong Mei， Test Generation via Dynamic Symbolic Execution for Mutation Testing 
+Selecting Fault Tolerant Styles for Third-Party Components with Model Checking Support 
+Generating Synchronization Engines between Running Systems and Their Model-Based Views 
+A Use Case Based Approach to Feature Models’ Construction 
+A Propositional Logic-Based and Evidence-Rich Web Services Trustworthiness Evaluation Framework 
+基于规则注入的自主构件协作框架的设计与实现 
+软件分析技术进展 
+Chpated 2 DNA Based Biosensors, ?Handbook of Organic Electronics and Photonics?, 
+Biochip Nanotechnology 
+Fundamental Concepts of Bioinformatics 
+In: ?Nanotechnology Research Advances?,  
+The Effect of CA Mispairs on Accuracy of BstUⅠRestriction Endonuclease 
+Nanomaterials Based Cancer Diagnosis and Therapy, In: ?Encyclopedia of Nanoscience and Nanotechnology? (second edition) 
+Fabrication and Bio-application of Functionalized Nanomaterials 
+On competitive control systems 
+Consensus of second order discrete-time multi-agent systems with switching topology 
+Design ADRC for two special kinds of systems 
+More entanglement, less reliability 
+外场条件下捷联惯导系统的系统级标定问题 
+Controlling decoupled quantum system 
+Roubust H-infinity control and uniformly bounded control for genetic regulatory network with stochastic disturbance 
+Output feedback stabilization of a one-dimensional Schrodinger equation by boundary observation with time delay 
+Paremetrization and geometric analysis of coordination controllers for multi-agent systems 
+On shallow shell equations 
+On the observability and detectability 
+Special Agents Can Promote Cooperation in the Population 
+Control of random boolean networks via average senstitivity of boolean functions 
+Delay-dependent H-infinity control for singular Markovian jump systems with time delay 
+H-infinity model reduction for discrete singular Markovian jump systems 
+电力系统复杂性及其相关问题研究 
+H-infinity filtering for singular systems with time-varying delay 
+Modeling a Delayed Coking Process with GRNN and Double-Chain Based DNA Genetic Algorithm 
+Delay-dependent H-infinity filtering for singular Markovian jump time-delay systems 
+Robust H-infinity control for networked control systems with uncertainties and multiple-packet transmission 
+The structure of KBaB5O9 by Ri 
+Role of Lateral Alkyl Chains i 
+“Coupled-Butterfly” Molecula 
+Configuration and Conductance  
+A site specific Kondo effect i 
+Conductance Transition of ZnO  
+Controllable growth of functio 
+Atomic structure of a thin sil 
+Recent Progress on Understandi 
+依赖覆盖度的吸附：二萘嵌苯（pe 
+Modification on Cr2O3 anode ma 
+Formation and Evolution of Sel 
+Solid electrolytes for dye-sen 
+ε-Co纳米睚组装形成的有序阵列 
+Li2O-TiO2-B2O3体系固相线下的相 
+Novel nano-pyranid arrays in m 
+Self-assembly of perylene on A 
+Molecular States Analysis Of P 
+Intermediate Phase in Ce-doped 
+Manipulation and electrical pr 
+Report of ICDD regional (China 
+Scanning Tunneling Spectroscop 
+Mechanism on chiral symmetry b 
+Self-assembled Molecular Nanos 
+Role of Lateral Alkyl Chains i 
+Some material studies for sust 
+A new solid-state composite el 
+Cr-based nanocrystalline anode 
+Sodium and Chromium Doping at  
+Improve structural stability o 
+Studies on LiFePO4 
+Route to gan and VN assisted b 
+Conductance Transition and Nan 
+Modulation of functional molec 
+Solid state and quasi solid co 
+Manipulation and electrical pr 
+Large-scale Synthesis of SiC/S 
+Progress on theoretical simula 
+CoPt nanoparticles synthesized 
+Coverage Dependent Adsorption  
+Strong phototluminescence of n 
+Configuration and Conductance  
+Scanning Tunneling Microscopy  
+Study of carbon nanotubes by l 
+Novel Structures of Piezoelect 
+Selective Non-templated Adsorp 
+Different Lateral Alkyl Chain  
+The “Ultimate “Scanning Tunn 
+Li storage and transport at na 
+Configuration and Conductance  
+Stability of Molecular Junctio 
+Calculations comparison of ele 
+"Coupled-Butterfly" Molecular  
+Growth of a new novel borate c 
+“Forests” and “Deserts” Pa 
+Li-ion Batteries for EV 
+Role of Lateral Alkyl Chains i 
+Micro-Raman spectroscopy chara 
+一类新型的固态复合电解质纳晶染 
+Atomic Force Microscopy Studie 
+Scanning Tunneling Microscopy  
+Self-assembled Molecular Nanos 
+Fabrication of Atomically Smoo 
+The ultimate Scanning Tunnelin 
+Self-assembly Growth of Molecu 
+Synthesis and Novel Optical Pr 
+Scanning tunneling microscopy  
+Switchable Catenanes Toward Ul 
+Scanning Tunneling Microscopy  
+Self-assembled Molecular Nanos 
+Modulation of Self-assembled M 
+Growth and Characterization of 
+Origin of solid electrolyte in 
+Investigation of Y2O3 surface  
+Conductance transition in nano 
+Effect of growth temperature o 
+Solid state composite electrol 
+原子、分子操纵与人工纳米结构 
+Experimental evidence for the  
+一种通过三聚氰胺与氧化物反应制 
+Ge grown on Si(111)-7x7 
+Study on quasi-solid and solid 
+STM-excited emission on alq3 t 
+Direct Observation of Configur 
+Atomic structure of a thin sil 
+Conductance of an ensemble of  
+Solid electrolytes for dye-sen 
+Cage structured composite as a 
+Recent Progresses on Explorati 
+Bonding configurations of Ge a 
+纳米结构中的激子相互作用 
+单分散金属纳米粒子的合成、表征 
+不同形貌ZnO纳米材料的可控生长 
+Ultimate scanning tunneling mi 
+Quantum Transport in Nano Scal 
+Observation of Co-conformation 
+Growth and morphologies of one 
+Cracking causing cyclic instab 
+New Insights into Chiral Symme 
+Crystalline Thin Film of a Don 
+Defects in La2CuO4 and La1.86S 
+Ionic Conductivity and Associa 
+Fabrication of carbon nanotube 
+Reversible Nanometer-Scale Dat 
+Continuous solid solutions LiF 
+Synthesis and characterization 
+Cr2O3-Based Anode Materials fo 
+Selective analysis of molecula 
+The size-dependent phonon freq 
+Gas evolution behaviors for se 
+Self-catalyzed growth of magne 
+Surface compatibility in a car 
+Growth and characterization of 
+Re-examination of the crystal  
+Band structure effects on one- 
+Transmission electron microsco 
+Bonding Configurations and Col 
+A Spontaneous Combustion React 
+Electrochemical characterizati 
+KCaF(CO3) from powder diffract 
+Superconductivity and magnetis 
+Mechanical and electrical char 
+Studies of Langmuir-Blodgett f 
+Facile Route to Metal Nitrides 
+Recombination reduction in dye 
+Coating material-induced acidi 
+Morphology and defect structur 
+Characterization of Spontaneou 
+Crystalline thin films formed  
+Bi2O3 nanosquaresheets grown o 
+La2/3Ca1/3MnO3/Eu2CuO4/ La2/3C 
+Low-temperature synthesis and  
+Carbon/B2O3 composite with hig 
+Novel room temperature molten  
+Cage-like carbon nanotubes/Si  
+Nano Co3O4 Particles Embedded  
+Bulk GaN single crystals: a re 
+Structure determination and re 
+Formation of one-dimensional c 
+Synthesis and characterization 
+Preparation and optical proper 
+The effects of Mg dopant on th 
+新化合物MM'4B3O9(M=Li, M'=Sr;  
+The Aggregation, Size, Exciton 
+Exploration and structural det 
+Investigation of iron oxide na 
+Mabic changes in anisotropy of 
+反钙钛矿型Mn3XN(X=Ga, Cu, Zn) 
+Selective analysis of molecula 
+Solid state composite electrol 
+Solid-state electrolyte  Nanoc 
+用STM研究Ge纳米团簇在Si(111)-7 
+用AFM研究DL-缬氨酸和L-丙氨酸晶 
+Four-probe scanning tunneling  
+Negative refraction: an intrin 
+有机功能分子pseudocantenane用 
+Synthsis of GaN nanoparticals  
+The Role of Y3+ in the Y doped 
+Bonding configurations of Ge a 
+Carbon-coated LiCrTiO2 as cath 
+Controlled growth of large-sca 
+Cr2O3 anode material for Li-io 
+有机功能分子与纳米粒子体系的有 
+Conductanc of an Ensemble of M 
+Stable, Reproducible Nanorecor 
+Route to GaN and VN Assisted b 
+Growth of bulk GaN single crys 
+The dependence of Co nanoparti 
+Intrinsic current-voltage prop 
+Growth of lithium niobate crys 
+Ab-initio structure determinat 
+Ab inito structure determinati 
+GaN single crystals grown unde 
+First-principles study of Li i 
+Synthesis and characterization 
+Surface crystallization effect 
+Large-scale and catalyst-free  
+Syntheses, Thermal Stability a 
+Synthesis and electrochemical  
+Solid-State Composite Electrol 
+New types of defects in SiC gr 
+Anomalous Electrochemical Beha 
+Well-aligned zinc oxide nanoro 
+Cheap and environmentally beni 
+Thermal stability and electron 
+Environmentally friendly LiI/e 
+High effient dye-sensitized so 
+Electrolytes in solid-state dy 
+Understanding and controlling  
+Experimental and theoretical s 
+Synthesis and Characterization 
+Coaxial ZnO/SiO2 nanocables fa 
+Improve the electrochemical pe 
+Synthesis, characterization an 
+Structural and Conductance Tra 
+Cage-like carbon nanotubes/Si  
+Improving the rate performance 
+Photochemical-Controlled Switc 
+Defects in Nd2CuO4 and Nd1.815 
+Growth and optical characteriz 
+From aqueous to organic: A ste 
+Origin of Solid Electrolyte In 
+HAADF-STEM imaging with sub-an 
+Spectroscopic studies on the c 
+Experimental and theoretical s 
+Carbon-Coated Li1.2Cr0.4Ti0.4O 
+Fabrication of gold nanorod se 
+A Heat Transfer Analysis for S 
+Theoretical study of cation do 
+A new catalyzed process to pre 
+Atomic structure of a thin sil 
+Ab initio studies on the stabi 
+Temperature-dependent dynamic  
+Selective Nontemplated Adsorpt 
+First Principles Modeling of T 
+Influence of Mg2+ ions doping  
+Effect of iodine addition on s 
+Synthesis and characterization 
+Synthesis and characterization 
+First-principles investigation 
+Necktie-lide ZnO nanobelts gro 
+K1-xNax)(2)Al2B2O7 with 0 <= x 
+A neutron powder investigation 
+Manipulation and four-probe an 
+High-efficiency 1598.5nm third 
+Atomic Structure of a Thin Sil 
+Structures and defects of WO3- 
+Surface structures of DL DL-va 
+Near-stoichiometric LiNBO3 sin 
+Solvent storage-induced struct 
+Overcharge investigation of li 
+Influence of different deposit 
+Spectroscopic and DFT studies  
+Synthesis and ab initio X-ray  
+Electrochemical and In Situ Sy 
+Low temperature CO induced gro 
+Preparation and characterizati 
+Thermal stability and crystal  
+Growth and Electrical Properti 
+Surface alloying of Pb as a su 
+The Al3+ stabilized phase Li3- 
+Synthesis and characterization 
+Negative refraction: An intrin 
+Lithiation–delithiation prope 
+The effect of Cr doping on Li  
+Mesoscale Organization of Near 
+First principles study on NaxL 
+Controlled synthesis of CeO2 n 
+Assessment of Li-Ga-N ternary  
+Structure determination of a n 
+Preparation and characterizati 
+Ag-deposited mesocarbon microb 
+Nanometre moire fringes in sca 
+Synthesis and magnetic propert 
+Larger Ba(NO3)2/Sr(NO3)2 cryst 
+Effect of co content on rate p 
+Investigations of mesoporous C 
+Tip size effect on the appeara 
+Ab initio structure determinat 
+Ab-initio molecular-dynamics s 
+Morphologies and microstructur 
+A facile mechanochemical way t 
+Growth of GaN single Crystal U 
+Spectroscopic studies on the m 
+A study of the chemical reacti 
+Increase in thermal stability  
+Comparison of structure and el 
+Structural evolution of pentac 
+自组装有机分子薄膜的可逆超高密 
+扫描隧道显微镜分辨能力的研究： 
+Effects of post-thermal treatm 
+Characterization of Interactio 
+Effect of Morphology and Curre 
+Structure determination and re 
+Entanglement control in an ani 
+The crystal structure of alpha 
+Electrical Properties of Nanow 
+Influence of micropore structu 
+Tetrachloroethylene as new fil 
+Ba3YB3O9: phase transition and 
+Understanding mechanism of imp 
+Phase relations in the Y2O3-Ba 
+Growth of near stoichiometric  
+Thermodynamic assessment of th 
+Vanadium oxide surfaces and su 
+A new catalyzed process to pre 
+Stable cobalt nanoparticles pa 
+Polymer-in-salt like conductio 
+Strong photoluminescence of na 
+Nucleation and reshaping therm 
+Interplay between theory and e 
+Highly Ordered Self-Assembly w 
+Processing of an atomically sm 
+TEM study on hollow and porous 
+扫描隧道显微镜功能化针尖对分子 
+Electron Core-Hole Interaction 
+Uniaxial Crystal Slabs as Amph 
+Monodispersed hard carbon sphe 
+Some studies on electrolytes f 
+Formation of Ge nanoclusters o 
+Li-biphenyl-1,2-dimethoxyethan 
+Four-probe scanning tunnelling 
+Controlled growth of large-sca 
+Growth of Ge hexagonal meshwor 
+An analysis of seed graphitiza 
+A neutron powder investigation 
+Electromagnetic Interference ( 
+配液结晶法制备溶菌酶蛋白质晶体 
+Surface Recognition of the Spa 
+Role of lateral alkyl chains i 
+Photonic Crystal Waveguides in Terahertz Regime (invited) 
+Enhanced leakage current performance and conduction mechanisms of Bi 1.5Zn1.0Nb1.5O7/Ba 0.5Sr0.5TiO3 bilayered thin films 
+Soft magnetic properties of (Ni(80)Fe(20))(1-x)(Ni(0.5)Zn(0.5)Fe(2)O(4))(x) films for high frequency applications 
+Microstructure and properties of ZrO2-, TiO2-doped Ca-Si-B based ceramics 
+Estimation of Occupant Distribution by Detecting the Entrance and Leaving 
+Subspace Maximum Margin Clustering 
+Transductive Classification via Dual Regularization 
+Co-clustering on Manifolds 
+Multitask Bregman clustering 
+An Enhanced Nested Partitions Method 
+Multi-View Local Learning 
+A New Approach to Answerer Recommendation in Community Question Answering Services 
+What if the irresponsible teachers are dominating? A method of training on samples and clustering on teachers 
+Stereo vision using two PTZ cameras 
+Universal Alignment Probability Revisited 
+Embedding New Data Points for Manifold Learning via Coordinate Propagation 
+Multitask Bregman clustering 
+Fault detection of NCS based on optimal robust fault detection filter 
+Improved algorithm for calculating D-statistic 
+一种改进的基于重构的传感器故障贡献分析算法 
+Robust design of feedback integrated with iterative learning control for batch processes with uncertainties and interval time-varying delays 
+Separating Overlapped Fingerprints 
+Nonlinear Dimensionality Reduction with Local Spline Embedding 
+Trace Ratio Problem Revisited 
+Fault Detection Observer Design in Low Frequency Domain 
+H∞ Control for Continuous-time T-S Fuzzy Systems Using Fuzzy Lyapunov Functions Approach 
+Delay-Dependent Adaptive Robust H∞ Control for Uncertain Linear Systems with Time-Varying Delay 
+Performance analysis of a lower bound for flow shop weighted completion time problem 
+H∞ Filter Design for Uncertain Discrete-Time Systems in Finite Frequency Domain 
+Reliable H∞ Flight Tracking Control via State Feedback 
+An Adaptive Approach to State Feedback Tracking Control of Systems with Actuator Failures 
+Adaptive Robust H∞ Dynamic Output Feedback for Continuous Time-Varying Uncertain Systems 
+铝酸钠叶滤过程控制仿真试验平台的设计与开发 
+磨矿过程优化控制仿真实验系统的设计与开发 
+氧化铝气态悬浮炉焙烧过程控制仿真实验系统的设计与开发 
+连续退火机组张力系统故障诊断研究 
+篦式冷却过程控制仿针实验系统的设计与开发 
+磨矿过程预测控制仿真实验平台的设计与开发 
+生料浆配料过程智能优化控制系统的研究 
+城市应急管理中疏散计划与紧急救援的模型与优化方法的研究 
+开放式机械手控制实验平台的设计与开发 
+选矿不了过程控制仿真实验系统的设计与开发 
+水泥生产线回转窑过程计算机控制系统的设计与开发 
+电子中介的多目标交易匹配问题及其优化方法 
+竖炉焙烧过程智能故障诊断系统 
+H∞ Controller Design for Networked Control Systems via Active-varying Sampling Period Method 
+Dynamic Output Feedback Control Synthesis with Mixed Frequency Small Gain Specifications 
+Robust H_infinity control for standard discrete-time singularly perturbed systems 
+基于模糊双曲模型的混合H_2/H_∞控制 
+Global Asymptotic Stability of Delayed Cellular Neural Networks 
+Control Synthesis of Singularly Perturbed Fuzzy Systems, IEEE Transactions on Fuzzy Systems 
+Guaranteed Cost Control for a Class of Fuzzy Descriptor Systems with Time-Varying Delay 
+Adaptive reliable H_infinity filtering against sensor failures 
+Delay-dependent robust H∞ control for uncertain fuzzy hyperbolic systems with multiple delays 
+氧化铝熟料烧成回转窑混合智能优化控制的研究 
+生产调度问题的拉格朗日和反馈神经网络方法研究 
+基于FPGA的电磁流量计信号转化器硬件设计研究 
+An LMI approach to H-index and mixed H_/H_infinity fault detection observer design 
+A Novel Approach for Extraction of Fuzzy Rules Using the Neuro-fuzzy Network and Its Application in the Blending Process of Raw Slurry 
+Robust exponential stability analysis of neural networks with multiple time delays 
+H_infinity control of networked control system with time-varying sampling period 
+Three-island PSO memory enhanced in dynamic environment 
+GFHM Model and Control for Uncertain Chaotic System 
+Hybrid Intelligent Control Strategy of the Laminar Cooling Process 
+ILS Algorithm based on VLSN for price collection VRP 
+Improved extremal optimization algorithm for function optimization 
+多时滞和分布时滞细胞神经网络的全局渐近稳定性 
+Simultaneous Blind Separation of Arbitrarily Mixed Source Signals 
+钢球磨煤机脂粉过程计算机控制系统的设计与开发 
+强磁选过程智能优化控制仿真系统的设计与开发 
+电磁流量计供电及励磁系统的设计与开发. 
+中储式钢球磨煤机制粉系统过程试验平台的设计与开发 
+选矿过程物流仿真实验系统设计与开发 
+基于神经网络和模型的非线性系统自适应PID控制 
+面向钢种变更的炼钢连铸动态调度系统的设计与开发 
+炼钢连铸生产天车调度系统的设计与开发 
+What controls the evolution of surface based nanostructures. 
+Individual single/double walled carbon nanotube and its electronic properties. 
+What controls the evolution of surface based nanostructures. 
+Kinetic Monte Carlo simulation of magnetization dynamics of nanomagnets with giant magnetic anisotropy 
+Phase transition dynamics of semiconductor reconstructed surfaces. 
+Impurity decoration for growth control: Above, below, and at the surface. 
+Fundamentals of Impurity at Growth Front: Above, Below, and At the Surface. 
+Quantum Confined Light Emission from Innate Silicon Particles of Extremely Small Sizes Grown at Low Temperature . 
+Spin transfer torques in antiferromagnetic materials. 
+What controls the evolution of surface-based nanostructures? Insights from computer Simulation. 
+Quantum oscillation of surface chemical reactivity. 
+Spin transport from first principles calculation. 
+Tuning surface chemical reactivity via quantum size effects. 
+Spin transport from first principles calculation. 
+Direct synthesis of single-walled semiconducting BCN nanotubes and development of field effect transistors. 
+Fundamentals of Impurity at Growth Front: above, below, and at the Surface . 
+The control of self-assembly of pentacene molecules on surfaces 
+Impurity induced surface phenomenon: reconstruction and growth. 
+What controls the evolution of surface-based nanostructures? Insights from computer simulation. 
+Impurity induced surface phenomenon: reconstruction and growth. 
+What controls the evolution of surface-based nanostructures? Insights from computer simulation. 
+Water interaction with NaCl: Adsorption, Dissolution and Nucleation. 
+A molecular picture of water on NaCl surface. 
+A step up to self-assmebly. 
+Phase-field-crystal modelling of the (2 × 1)–(1 × 1) phase transitions of Si(0 0 1) and Ge(0 0 1) surfaces 
+Solar-blind 4.55eV band gap Mg0.55Zn0.45O components fabricated using quasi-homo buffers 
+Constrasting morphologies of O-rich ZnO epitaxy on Zn- and O-polar thin film surfaces: Phase-field model. 
+Exciton and hole spin dynamics in ZnO investigated by time-resolved photoluminescence experiments. 
+Epitaxial growth of CaO films on MgO(001). 
+Low-temperature engineering for high-quality epitaxy of ZnO film on Si(111) substrate. 
+Temperature and coverage driven condensation of pentacene on the Si(111)-(√3 × √3)R30◦–Ag surface. 
+Impact of antenna spacing at terminals on spatial variation of performances in distributed antenna systems 
+Energy-Aware Resource Allocation for Energy Harvesting Wireless Communication Systems 
+Oblivious routing design for mesh networks to achieve a new worst-case throughput bound 
+Optimal Distributed Malware Defense in Mobile Networks with Heterogeneous Devices 
+An optimal distributed malware defense system for mobile networks with heterogeneous devices 
+Non-metric label propagation 
+TASS: Timing Analyzer of Scenario-Based Specifications 
+Least square incremental linear discriminant analysis 
+CCQR: Constant Cost Quality-based Routing Protocol in Delay Tolerant Networks 
+CED: A Community-based Event Delivery Protocol in Publish/Subscribe Systems for Delay Tolerant Sensor Network 
+An Efficient Event Detection Scheme for Wireless Sensor Networks 
+Isolation forest 
+M3MIML: A maximum margin method for multi-instance multi-label learning 
+Cost-sensitive face recognition 
+Distributional features for text categorization 
+Semi-supervised document retrieval. Information Processing & Management 
+使用几何特征与隐马尔可夫模型的手绘笔画图元分解 
+Michael Gleicher. Image retargeting using mesh parametrization 
+Approximation stability and boosting 
+Multi-instance dimensionality reduction 
+BACH：线性混成自动机系统有界可达性验证工具组 
+面向草图检索相关反馈的AB-SVM学习算法 
+传感器网络节点定位系统安全性研究 
+一个基于设计演算的用例模型形式化途径 
+A Workflow Framework for Intelligent Service Composition. Future Generation Computer Systems 
+On multi-class cost-sensitive learning 
+Multi-view Video Summarization 
+Design of high speed arithmeti 
+Unsupervised clustering based  
+Merging ratio images based rea 
+Scene Slice Analysis based Lan 
+Application of the multi-frame 
+Salient Building Detectionfrom 
+A New Method of Dynamic Multi- 
+Pseudo Measurement Based Multi 
+Parametrization Construction o 
+Threshold Image Segmentation B 
+Neighborhood Discriminant Proj 
+Shape-feature-based Face Detec 
+A high pipeline and low memory 
+Vehicle Active Safety Applicat 
+TWS Tracking Techniques Based  
+Image hallucination with prima 
+An Approach of Road Recognitio 
+Multi-DSP based Intelligent Ve 
+Building a Sparse Kernel Class 
+A Shape Analysis Method by Uni 
+Sequential Stratified Sampling 
+A High Performance Design of F 
+Motion Adaptive Video Format C 
+Equivalent Templates of Multis 
+Adaptive stereo matching algor 
+A Cascaded Mixture SVM Classif 
+Pedestrian Detection Using Spa 
+Unicode local conversion metho 
+SOC-PSE: A Grid-based Problem  
+Chaotic watermarks recovering  
+An Improved Spectroface Recogn 
+Learning features from example 
+Neural Network based Online Fe 
+Edge Enhancement Using Fuzzy R 
+Nonnegative matrix factorizati 
+Lane boundary detection using  
+Support Vector Domain Descript 
+Panorama Mosaic with varying L 
+Triple lines approach to calib 
+A New Wavelet Lifting Scheme f 
+Low-power and high-speed VLSI  
+A Sequential Subspace Learning 
+Extensible JPEG2000 Image Comp 
+Sequential updating algorithm  
+Realistic face modeling with r 
+Unsupervised clustering based  
+Example-based Automatic Portra 
+Salient Building Detection fro 
+Learning based symmetric featu 
+A Multi-scale Retinex Algorith 
+Robust Tracking with and Beyon 
+Learning Kernel-based HMMs for 
+Vanishing Point and Gabor Feat 
+Boosted Crucial Gabor Features 
+Sequential Updating Algorithm  
+Equivalent Templates of Multis 
+Salient Building Detection in  
+Updating algorithm for extract 
+A novel video processing IC fo 
+Road Recognition algorithm usi 
+An Adaptive Approach to Lane M 
+Non-negative matrix factorizat 
+Learning sparse features for c 
+Learning Sparse Mixture Models 
+Robust 3D reconstruction with  
+Reliable grading robust stabil 
+Image Segmentation using Gauss 
+Advanced Framework for The Err 
+Unsupervised Analysis of Human 
+Using wavelete transform to es 
+Tracking Targets Via Particle  
+Application of Support Vector  
+Image Representation with Leve 
+Cluster-Based unsupervised col 
+Vanishing Point and Gabor Feat 
+一种时—空自适应的100Hz场频提 
+用ATL3. 0开发DHTML控件 
+一种训练支撑向量机的改进贯序最 
+Springrobot: a prototype auton 
+基于同步并行结构的视频处理IP模 
+径向基函数(RBF)神经网络的软竞 
+用于动态序列合成的基于核密度估 
+Efficient Rate Control System  
+Relative gradient speeding up  
+广义不确定系统的无脉冲鲁棒性和 
+面向运动估计器硬件实现的加权块 
+情報処理装置（Information Proc 
+Set Operator-Based Method of D 
+Example-based Facial Sketch Ge 
+Optimization Design of Biortho 
+Non-negative Matrix Factorizat 
+Simple and Efficient Nonparame 
+HPMV2: A new reconfigurable Ma 
+Principal component analysis n 
+基于移动均值和特征聚类的道路识 
+Segmentation of Medical Volume 
+Facetransfer：A system model o 
+高斯－埃尔米特粒子滤波器 
+具非线性边界条件的拟线性抛物型 
+Facial Sketch Rendering and An 
+基于Markov随机场和FRAME模型的 
+一种视频图像分辨率提升的VLSI设 
+一种运动自适应3D去隔行算法及硬 
+道路检测算法及其DSP实时实现 
+3D Plennoptic Representation o 
+具有场帧检测的自适应帧频提升算 
+A two-step method for preproce 
+Research on Vehicle License pl 
+Robust multibody motion segmen 
+Visual tracking method for mul 
+基于JPEG2000的TAGTREE编码算法 
+An accurate tracking method fo 
+Sequential stratified sampling 
+Image Based Active Model Adapt 
+Rotated Haar-Like Features for 
+一种基于JPEG2000标准的高性能FI 
+基于车辆动力学和Kalman滤波的汽 
+JPEG2000二维离散小波变换高效并 
+Low-Power and High-Speed VLSI  
+一种高效流水低存储的JPEG2000编 
+基于图像的脸部模型调整及表情动 
+JPEG2000并行阵列式小波滤波器的 
+高性能、有理系数9/7双正交小波 
+基于一阶自回归过程的7/5小波滤 
+实时截断的码率控制算法及其VLSI 
+径向基函数(RBF)神经网络的一种 
+Variation-based approach to im 
+Toward intelligent driver-assi 
+基于一类集合算子的图像去噪方法 
+一种基于片层的MPEG-2视频编码速 
+带前馈的广义不确定系统的脉冲鲁 
+Karhunen-Loeve展开基函数的小波 
+基于动态金字塔标记随机场模型的 
+提高光流估计性能的渐进性高斯多 
+基于主元神经网络和K-均值的道路 
+扫描格式转换的自适应帧频提升算 
+面向格式转换的数字视频处理方法 
+熵约束广义学习矢量量化神经网络 
+M-Face: An Appearance-Based Ph 
+Application of Linearized Anis 
+Road Recognition Approach Base 
+扫描格式转换的自适应帧频提升算 
+Grading Control of Dynamic Rob 
+基于瞄准跟随理论的驾驶员跟随汽 
+Nonnegative matrix factorizati 
+一种特征矩阵的相似性度量方法及 
+Integrating EMD and Gradient f 
+人脸的表情与年龄变换和非完整信 
+Approximately optimal rate all 
+IVS 05: New Developments and R 
+Learning Kernel-based HMMs for 
+An integrated Monte Carlo data 
+High-speed and Memory- efficie 
+基于多级查询表的JPEG2000位平面 
+空间模板卷积滤波的视频处理算法 
+Maximum entropy clustering and 
+基于图像的个性化卡通系统 
+学习矢量量化神经网络和软竞争算 
+基于自适应高斯混合体模型的相控 
+基于运动自适应的非均匀比率图像 
+人脸的表情与年龄变换和非完整信 
+一种基于Kruppa方程的摄像机线性 
+非线性时滞系统的保性能鲁棒稳定 
+线性不确定系统经动态输出反馈的 
+基于改进遗传算法的边缘检测阈值 
+基于2D样本的人脸图像新视点合成 
+Fuzzy generalization of the co 
+基于非同质性特征和样条模型的道 
+Is learning to rank effective for Web search 
+Combining RCC-8 with Qualitative Direction Calculi: Algorithms and Complexity 
+Exploring Relevance for Clicks 
+User Browsing Graph: Structure, Evolution and Application. Late breaking result session 
+A QUERY-SPECIFIC OPINION SUMMARIZATION SYSTEM 
+A generative model to unify topic relevance and lexicon-based sentiment for opinion retrieval 
+Multi-granular Computing and Its Application to Video Retrieval, 
+Enhancement of synchronization for a scale-free highly clustered network, 
+Combining Binary Constraint Networks in Qualitative Reasoning 
+Automatic Search Engine Performance Evaluation with Click-through Data Analysis 
+Building Disease-Specific Drug-Protein Connectivity Maps from Molecular Interaction Networks and PubMed Abstracts 
+Qualitative Spatial Representation and Reasoning: A Hierarchical Approach 
+Data Cleansing for Web Information Retrieval using Query Independent Features 
+Neuro-fuzzy dynamic-inversion-based adaptive control for robotic manipulators—discrete time case 
+Entanglement is not necessary for perfect discrimination between unitary operations 
+Experimental violation of the Leggett-Garg inequality under decoherence 
+Controllable tunnel coupling and molecular states in a graphene double quantum dot 
+Integrated photonic qubit quantum computing on a superconducting chip 
+Detection of bound entanglement in continuous-variable systems 
+Homogenization of Bell inequalities 
+Quantum phase transition of Bose-Einstein condensates on a nonlinear ring lattice 
+Experimental generation of an eight-photon Greenberger-Horne-Zeilinger state 
+Experimental demonstration of passive decoy state quantum key distribution 
+Direct observation of excitonic polaron in InAs/GaAs quantum dots 
+Preparation of microwave singl 
+Generation of a high-visibilit 
+Experimental demonstration of  
+Observation of the four-photon 
+Detection of the maximally con 
+Stability of phase-modulated q 
+Limitations of practical multi 
+Distinguishing the elements of 
+Nonclassical photon pairs gene 
+Projection measurement of the  
+Information-theoretic measure  
+Quantum computation without st 
+Optical pumping-assisted elect 
+Concatenating dynamical decoup 
+State estimation from a pair o 
+Conditional Preparation of two 
+Decoherence effects on the qua 
+Generation of entangled states 
+General form of genuine multip 
+Conditional efficient multiuse 
+Scheme for the preparation of  
+Distillation of the Greenberge 
+Creating macroscopic quantum s 
+Necessary and sufficient condi 
+Efficient implementation of co 
+Addendum to “Efficient quantu 
+Teleporting a rotation on remo 
+Compatibility relations betwee 
+Experimental preparation of th 
+Universal Quantum Computation  
+Faraday-Michelson system for q 
+Simple scheme for generating f 
+Experimental teleportation of  
+Scheme for atomic-state telepo 
+Spatial mode properties of pla 
+Quantum computation with untan 
+Multipartite entanglement prep 
+Demonstration of temporal dist 
+Sclalble fault-tolerant quantu 
+Implementing a conditional gat 
+Computation of topological cha 
+Tnable phase gate for two atom 
+Entangling Many atomic Ensembl 
+Experimental Test of the Koche 
+Entanglemeng-changling power o 
+Remote preparation of mixed st 
+Schemes for realizing frequenc 
+Experimental entanglement dist 
+Scheme for preparation of the  
+Realizing quantum controlled p 
+Scheme for teleportation of an 
+Linear optical scheme for dire 
+Faithful remote state preparat 
+Scheme for preparation of mult 
+Nonlocal gate of quantum netwo 
+Local operations in qubit arra 
+Scheme for implementing quantu 
+Stability of pairwise entangle 
+Compatible conditions, entangl 
+Quantum logic gate operation a 
+Conditions for optimal constru 
+Protocol and quantum circuits  
+Scalable Photonic Quantum Comp 
+Bounds for state-dependent qua 
+Impossibility criterion for ob 
+Three-dimensional theory for i 
+Quantum entanglement in spinor 
+Efficient construction of two- 
+Entanglement preparation and q 
+Entanglement measurement based 
+Robust high-fidelity teleporta 
+Quantum phase gate in an optic 
+Dispersive manipulation of pai 
+Compatibility relations betwee 
+Entangling and cloning machine 
+One-step implementation of a m 
+Quantum data hiding with spont 
+Efficient Engineering or Multi 
+Generating four-mode multiphot 
+Quantum computation using cont 
+Parallel public transport system and its application in the evacuation of large-scale activities 
+A Credibilistic Differential Game Model for Budget Allocation in Sponsored Search 
+A Credibilistic Differential Game Model for Budget Allocation in Sponsored Search 
+Bidding behavior and equilibrium on competitive keyword advertising markets 
+Bidding behavior and equilibrium on competitive keyword advertising markets 
+Web Video Classification Using Social Annotations 
+Web Video Classification Using Social Annotations 
+A stochastic model of temporal slot budget for sequential distribution in search advertisements 
+A stochastic model of temporal slot budget for sequential distribution in search advertisements 
+Co-evolution-based computational experiment for keyword auctions 
+Co-evolution-based computational experiment for keyword auctions 
+Game-theoretical analysis of budget allocation across search advertising markets 
+Game-theoretical analysis of budget allocation across search advertising markets 
+Spatially enhanced user behavior modeling using dynamic Bayesian network 
+Spatially enhanced user behavior modeling using dynamic Bayesian network 
+Estimating collective belief in fixed odds betting 
+Dynamic budget adjustment in search advertising auctions 
+Dynamic budget adjustment in search advertising auctions 
+Budget Constrained Bidding in the Sponsored Search 
+Budget Constrained Bidding in the Sponsored Search 
+GSP机制的均衡特性：报价与收益 
+GSP机制的均衡特性：报价与收益 
+Modeling Individual’s Infectiousness and Susceptibility in Social Contagion 
+Modeling Individual’s Infectiousness and Susceptibility in Social Contagion 
+Impact of evacuee behavior on evacuation clearance time 
+Evolutionary Dynamics of Bidding Behavior in Sponsored Search Advertising Markets 
+Evolutionary Dynamics of Bidding Behavior in Sponsored Search Advertising Markets 
+An investigation of Parallel Management Information System technology based on Service-Oriented Architecture 
+Two-Stage Fuzzy Programming Approach to Budget Allocation for Keyword Auctions 
+Two-Stage Fuzzy Programming Approach to Budget Allocation for Keyword Auctions 
+Mining Fine Grained Opinions by Using Probabilistic Models and Domain Knowledge 
+Linguistic dynamic systems based on type-2 fuzzy sets and their stabilities 
+Automatic construction of domain theory for attack planning 
+Identification of Vulnerability in Smart Grid Based on Complex Network Theory 
+Identification of Vulnerability in Smart Grid Based on Complex Network Theory 
+First Step for Budget Allocation Across Search Advertising Markets 
+First Step for Budget Allocation Across Search Advertising Markets 
+Forecasting complex group behavior via multiple plan recognition 
+Toward Digital Asset Protection 
+电力企业物资编码标准化设计与优化 
+Motion vehicles tracking in intelligent transportation visual surveillance systems 
+To improve safety and reliability of nuclear power plant with parallel system method 
+Advanced manufacturing technology in China: a roadmap to 2050 
+Mining actionable behavioral rules 
+Finite-horizon neuro-optimal tracking control for a class of discrete-time nonlinear systems using adaptive dynamic programming approach 
+Social Media Analytics and Intelligence 
+Click fraud and the adverse effects of competition 
+Click fraud and the adverse effects of competition 
+Cloud Computing for Agent-Based Urban Transportation Systems 
+Another Look at Linear Compensator Design: A Classic Control Problem Revisited 
+Data-Driven Intelligent Transportation Systems: A Survey 
+A Modeling and Computing Platform of Artificial Transportation Systems based on Game Engine 
+Research Collaboration and ITS Topic Evolution: 10 Years at T-ITS. IEEE Transactions on Intelligent Transportation Systems 
+Research Collaboration and ITS Topic Evolution: 10 Years at T-ITS. IEEE Transactions on Intelligent Transportation Systems 
+Simulation analysis of tunable, dual-band FSS with miniaturized-elements 
+The Design and Experiment of a Millimeter Wave SPDT Switch 
+45-Degree Linearly Polarized Resonant Slot Array Antenna Based on Substrate Integrated Waveguide 
+Investigations on Tolerances of Substrate Integrated Waveguide 
+RF and Antennas for New Generation Mobile Communication Systems 
+新型集成天线 
+基片集成波导 (SIW) 技术的演进及其在无线通信中的应用 
+Some Advances in Millimeter Wave Passive Components, Antennas and MMICs for Wireless Communications in SKLMMW 
+Integrated SIW and HMSIW Microwave and Millimeter Wave Antennas 
+Thinning compound printed air-fed array antenna by meta-surface with negative reflection phase 
+Antenna research in China 
+Broadband CPW-fed RFID antenna at 2.45/5.80 GHz 
+A Hybrid Ring Frequency Selective Surface Based on SIW Technology 
+A compound printed air-fed array antenna 
+A novel millimeter wave substrate integrated waveguide filter using TE 301 mode cavities 
+A New Type of Mechanically Tunable Frequency Selective Surface 
+Random gradient index metamaterials 
+Dielectric Metamaterials with Accessible Tunability 
+Optical Transformation with Easy-Realized Metamaterials 
+Genaration of Bessel Beams at mm-and submm-Wave Bands Using Binary Optical Elements 
+Millimeter-wave substrate integrated waveguide multibeam antenna based on the parabolic reflector principle 
+Arbitrary bending of electromagnetic waves using realizable metamaterials 
+Invisibility cloak without singularity 
+Broadband Ground-Plane Cloak 
+半模基片集成波导窄壁缝隙耦合定向耦合器 
+平衡馈电基片集成波导缝隙阵列全向天线 
+基于基片集成波导的正反渐变槽整流天线阵列的研究 
+An Analysis for a high-order difference scheme for numerical solution to 
+Circuit representation of isotrpic chiral Medium 
+Research on a Compact Millimeter Wave Orth-Mode Transducer, J. of Electromagn 
+Novel triple-mode resonators using metamaterial structures 
+The transmission disequilibrium test and imprinting effects test based on case-parent pairs 
+Quasi-optical Bessel resonator 
+Erratum: Generation of mm- and sub mm-wave bessel beams using DOE's designed by BOR-FDTD method and MGA (Journal of Infrared, Millimeter, and Terahertz Waves (2009) 30 (172-182) DOI: 10.1007/s10762-008-9434-x) 
+Privacy-Assured Similarity Query over Graph-Structured Data in Mobile Cloud 
+Towards Multi-user and Network-Aware Web Services Composition 
+An Effective Cooperation Mechanism among Multi-Devices in Ubiquitous Network, 
+Optimal design for cloud infrastructure in multi-layer service computing environment 
+A Runtime-restricted Strategy for Highly Parallel Scheduling Human Resource in Change Management 
+Energy-aware Virtual Network Embedding Through Consolidation 
+An Approach For Secure-Communication Between Xen Virtual Machines 
+A Cloud-Based System for Enhancing Security of Android Devices 
+An Improved Approach for SQL Injection Vulnerabilities Detection 
+Novel Design of the Model of Distributed Namenode in HDFS 
+A Security and Efficient E-mail Protocol Based on the quantum signature against the threat from DKIM 
+新型的802.11n联合符号定时同步与细频偏估计算法研究 
+An efficient server bandwidth costs decreased mechanism for asynchronous streaming in cloud-assisted P2P-VoD system 
+A quantum watermark protocol 
+Revisiting “The Loophole of the  Improved Secure Quantum  Sealed-Bid Auction with  Post-Confirmation and Solution” 
+An efficient patch dissemination strategy for mobile networks 
+Efficient Lattice-Based Signcryption In Standard Model 
+Efficient Loss Inference Algorithm Using Unicast End-to-End Measurements 
+Disaster Recovery Backup Strategy for P2P Based VoIP Application 
+安全两方线段求交协议及其在保护隐私凸包交集中的应用 
+Local distinguishability of orthogonal quantum states in a 2 circle times 2 circle times 2 system 
+The effective construction of the lattice basis and its cryptographic application 
+Study of Attacks and Countermeasures in Wireless Sensor Networks 
+Pinning adaptive synchronization of complex dynamical network 
+利用干扰消除的协同中继传输方案 
+Improving the security of arbitrated quantum signature 
+A novel pairing-free certi？cateless authenticated key agreement protocol with provable security 
+New constructions of symmetric orthogonal arrays of strength t 
+Self-organizing Energy-saving Management Mechanism based on Pilot Power Adjustment in Cellular Networks 
+New constructions of symmetric orthogonal arrays of strengtht 
+SBDP: Bandwidth Prediction Mechanism towards Server Demands in P2P-VoD System. Peer-to-Peer Networking and Applications 
+Quantum anonymous ranking 
+支持向量机回归预测在网络故障检测中的应用 
+Dynamic quantum secret sharing 
+无线传感器网络蠕虫传播及控制研究 
+Standard based IAM implementation strategy in cloud computing 
+Studies on Network Topology Discovery of IP Networks 
+A Systemic Code-Protecting Methodology For the Dex File on Android platform 
+Protectiv Circuit Routing Algorithm Based On Multiple And Colonies Algorithm 
+A Robust Zero-watermark Algorithm Based on SVD for Digital Right Management 
+Security Analysis and Defence Strategy on Access Domain in Third Generation Mobile Communication System 
+Optimizing Probe Selection Algorithms for Fault Locolization 
+A Self-Configuration Model for Clustering-based MANET Networks 
+Distributed Steganography 
+IP Traceback In GPRS 
+Ticket-Based Personal Resource Access Authorization Method for Distributed Mobile SNS 
+An efficient network detection approach 
+High Accurate Internet Traffic classification based on co-training semi-supervised clustering 
+ARM-CPD: Detecting SYN Flooding?Attack by?Taffic?Prediction 
+Single-sign-on model for Mashup 
+Smart Card-Based Authenticated Key Exchange Protocol with CAPTACHA for Wireless Mobile Network 
+Research on Data Oriented Service Network 
+Building the Internet of Things Using a Mobile RFID Security Protocol Based on Information Technology 
+A Two-Phase Software Protection Scheme for Android Operating System 
+Improvement of Kerberos Protocol Based on Fuzzy Logic 
+A Cluster based Negotiation Model for Task Allocation in WSN 
+A Remote User Authentication Scheme Preserving User Anonymity and Traceability 
+DFRS: A DISTRIBUTED FRONT-END ROUTING SYTSTEM IN CLOUD ENVIRONMENT 
+An Internet Traffic Classification Method Based onSemi-Supervised Support Vector Machine 
+Multiple-image hiding by phase multiplexing and cascaded phase algorithm 
+The expected value of 2-adic complexity of binary periodic sequence 
+A Productive Time Length-Based Method for Multi-tenancy-Oriented Service Usage Metering and Billing 
+ISPCA：IDPOS-Based Service Pool Construction Algorithm 
+A Distributed Method of Fault Recovery in Clusting-based Wireless Sensor Network 
+Controlled quantum teleportation with Bell states 
+A two-step channel-encryting quantum key distribution protocol 
+下一代网络终端管理系统体系结构及流程实现 
+Reduce Network Traffic Cost by Merging Maintenance Messages in Single-hop Routing Mechanisms 
+Probabilistic quantum network coding of M-qudit states over the butterfly network 
+Joint remote preparation of an arbitrary three-qubit state 
+Three-party quantum secret sharing of secure direct cummnunication based on chi- type entangled states 
+Quantum secure direct communication with cluster states 
+ITU-T M.3102，Unified generic management information model for connection-oriented and connectionless networks 
+YD/T 1926.2-2009 IT运维服务管理技术要求 第2部分：管理服务定义 
+YD/T 2068.1-2010:2GHz TD-SCDMA 多媒体广播系统（TD-MBMS）网络管理技术要求 第1部分：配置网络资源模型 
+基于区域相关性的LSB匹配隐写分析 
+A Novel Real-Time Interactive LBS Systerm for Large-Scale Smart Parks 
+Fair quantum blind signatures 
+Discrete logarithm additively homomorphic encryption and secure data aggregation 
+5元1-弹性布尔函数的代数免疫阶 
+A password-based secure communication scheme in battlefields for IOT 
+Economical quantum anonymous transmissions 
+Secure quantum private comparison 
+Optimization of multi-TW Ti: s 
+Recent progress of high field  
+YD/T 2068.3-2010: 2GHz TD-SCDMA 多媒体广播系统（TD-MBMS）网络管理技术要求 第3部分：基于CORBA技术的网络资源模型设计 
+YD/T 1926.3-2010: IT运维服务管理技术要求 第3部分：服务管理流程 
+ITU-T M.3702 Common Management Service - Notification management - requirements & analysis 
+ITU-T M.3704 Common Management Service - Performance management - requirements & analysis 
+YD/T 1926.1-2009 IT运维服务管理技术要求 第1部分：体系架构 
+YD/T 2068.2-2010:2GHz TD-SCDMA 多媒体广播系统（TD-MBMS）网络管理技术要求 第2部分：性能网络资源模型 
+YD/T 1926.5-2010; IT运维服务管理技术要求 第5部分：配置管理数据库 
+Progagation of femtosecond las 
+Robust H&infin; fuzzy control for uncertain nonlinear Markovian jump systems with time-varying delay
+基于在线气动参数修正的预测制导方法,北京航空航天大学学报 
+Robust H&infin; fault detection for uncertain LDTV systems using krein space approach
+On-the-Fly&nbsp;Extraction&nbsp;of&nbsp;Polyhedral&nbsp;Buildings&nbsp;From&nbsp;Airborne&nbsp;LiDAR&nbsp;Data 
+H&infin; control for air-breathing hypersonic vehicle based on online simultaneous policy update algorithm
+Passivity of delayed reaction&ndash;diffusion networks with application to a food web model
+Self-alignment&nbsp;of&nbsp;full&nbsp;skewed&nbsp;RSINS:&nbsp;observability&nbsp;analysis&nbsp;and&nbsp;full-observable&nbsp;Kalman&nbsp;filter 
+Signal-to-noise&nbsp;ratio&nbsp;enhancement&nbsp;of&nbsp;phase-sensitive&nbsp;optical&nbsp;time-domain&nbsp;reflectometry&nbsp;based&nbsp;on&nbsp;power&nbsp;spectrum&nbsp;analysis 
+一种用于光纤陀螺信号滤波的AMA-DWT-DMKF算法 
+车载三波束多普勒激光雷达波束配置研究 
+Dynamic and static strain gauge using 
+A new method for building roof segmentation from airborne LiDAR point cloud data
+反射式Sagnac型光纤电流互感器的关键技术
+K-Plane-Based&nbsp;Classification&nbsp;of&nbsp;Airborne&nbsp;LiDAR&nbsp;Data&nbsp;for&nbsp;Accurate&nbsp;Building&nbsp;Roof&nbsp;Measurement 
+Decoupled&nbsp;Observability&nbsp;Analyses&nbsp;of&nbsp;Error&nbsp;States&nbsp;in&nbsp;INS/GPS&nbsp;Integration 
+Nutation&nbsp;and&nbsp;Precession&nbsp;Stability&nbsp;Criterion&nbsp;of&nbsp;Magnetically&nbsp;Suspended&nbsp;Rigid&nbsp;Rotors&nbsp;With&nbsp;Gyroscopic&nbsp;Effects&nbsp;Based&nbsp;on&nbsp;Positive&nbsp;and&nbsp;Negative&nbsp;Frequency
+Accurate&nbsp;estimation&nbsp;of&nbsp;lever&nbsp;arm&nbsp;in&nbsp;SINS/GPS&nbsp;integration&nbsp;by&nbsp;smoothing&nbsp;methods 
+Optimized&nbsp;design&nbsp;method&nbsp;of&nbsp;vibration&nbsp;isolation&nbsp;system&nbsp;in&nbsp;mechanically&nbsp;dithered&nbsp;RLG&nbsp;POS&nbsp;based&nbsp;on&nbsp;motion&nbsp;decoupling 
+Modified compensation method for the scale factor errors of dynamically tuned gyroscope POS
+基于时间双向解算融合的POS事后处理算法
+基于激光测速仪的高精度定位定向技术 
+Lyapunov-based design of locally collocated controllers for semi-linear parabolic PDE systems
+高功率隔离器热致退偏分析与补偿设计 
+Improved Results on Statistic Information Control With a Dynamic Neural
+Temperature dependence of radiation induced attenuation for optical fibers 
+Parameters Optimization for Improvement of IFOG RWC Degradation in Space Radiation Environment 
+Temperature&nbsp;Error&nbsp;Modeling&nbsp;of&nbsp;RLG&nbsp;Based&nbsp;on&nbsp;Neural&nbsp;Network&nbsp;Optimized&nbsp;by&nbsp;PSO&nbsp;and&nbsp;Regularization 
+An&nbsp;accurate&nbsp;calibration&nbsp;method&nbsp;for&nbsp;accelerometer&nbsp;nonlinear&nbsp;scale&nbsp;factor&nbsp;on&nbsp;a&nbsp;low-cost&nbsp;three-axis&nbsp;turntable&nbsp; 
+L-2-Gain&nbsp;Analysis&nbsp;for&nbsp;Synchronization&nbsp;of&nbsp;Stochastic&nbsp;Complex&nbsp;Network&nbsp;with&nbsp;Switched&nbsp;Topology&nbsp;and&nbsp;Time-Varying&nbsp;Delay 
+Four-Terminal Imaging Using Two-Terminal Electrical Impedance Tomography System
+An&nbsp;Accurate&nbsp;Gravity&nbsp;Compensation&nbsp;Method&nbsp;for&nbsp;High-Precision&nbsp;Airborne&nbsp;POS 
+In&nbsp;situ&nbsp;magnetic&nbsp;compensation&nbsp;for&nbsp;potassium&nbsp;spin-exchange&nbsp;relaxation-free&nbsp;magnetometer&nbsp;considering&nbsp;probe&nbsp;beam&nbsp;pumping&nbsp;effect 
+A&nbsp;Hybrid&nbsp;Prediction&nbsp;Method&nbsp;for&nbsp;Bridging&nbsp;GPS&nbsp;Outages&nbsp;in&nbsp;High-Precision&nbsp;POS&nbsp;Application 
+Spin-exchange&nbsp;relaxation-free&nbsp;magnetic&nbsp;gradiometer&nbsp;with&nbsp;dual-beam&nbsp;and&nbsp;closed-loop&nbsp;Faraday&nbsp;modulation 
+High-Precision&nbsp;and&nbsp;Strong-Robustness&nbsp;Control&nbsp;for&nbsp;an&nbsp;MSCMG&nbsp;Based&nbsp;on&nbsp;Modal&nbsp;Separation&nbsp;and&nbsp;Rotation&nbsp;Motion&nbsp;Decoupling&nbsp;Strategy 
+Frequency-Domain&nbsp;System&nbsp;Identification&nbsp;of&nbsp;an&nbsp;Unmanned&nbsp;Helicopter&nbsp;Based&nbsp;on&nbsp;an&nbsp;Adaptive&nbsp;Genetic&nbsp;Algorithm 
+Design&nbsp;of&nbsp;orientation&nbsp;estimation&nbsp;system&nbsp;by&nbsp;inertial&nbsp;and&nbsp;magnetic&nbsp;sensors 
+Self-Compensation&nbsp;of&nbsp;the&nbsp;Commutation&nbsp;Angle&nbsp;Based&nbsp;on&nbsp;DC-Link&nbsp;Current&nbsp;for&nbsp;High-Speed&nbsp;Brushless&nbsp;DC&nbsp;Motors&nbsp;With&nbsp;Low&nbsp;Inductan
+Integrated navigation method for SINS and odometer
+Initial Alignment of POS aided by the Residual Gyro Outputs on Stationary Base
+基于线性相位无限长单位冲击响应滤波器的机抖激光陀螺POS低时延降噪方法
+基于空间相关法与支持向量机的风电场风速多步预测模型 
+基于PMI的三轴惯性稳定平台干扰力矩补偿方法研究 
+Active fault tolerant control for a class of linear time-delay systems in finite frequency domain
+Coating Qualities Evaluation for Alkali-Metal Atomic Vapor Cells Based on Frustrated Total Internal Reflection
+Temperature&nbsp;decoupling&nbsp;control&nbsp;of&nbsp;double-levelair&nbsp;flow&nbsp;field&nbsp;dynamic&nbsp;vacuum&nbsp;system&nbsp;based&nbsp;on&nbsp;neural&nbsp;network&nbsp;and&nbsp;prediction&nbsp;principle 
+Optimal fault detection for a class of discrete-time switched linear systems
+Design of Closed-Loop Detection System for Optical Voltage Sensors Based on Pockels Effect
+Passivity of delayed reaction
+Graphene based quantum dots 
+Graphene based quantum dots 
+Towards understanding the effects of carbon and nitrogen-doped carbon coating on the electrochemical performance of Li4Ti5O12 in lithium ion batteries: a combined experimental and theoretical study 
+File-Process Dependency Network and Malware Detection, 
+A Dynamic Secret-based Encryption Method in Smart Grids Wireless Communication [C]. 
+The k-Canadian travelers problem with communication[C], 
+A novel method on software structure evaluation[C]. 
+粗糙集研究综述[C]. 
+Optimal policy for single-machine scheduling with deterioration effects, learning effects, setup times, and availability constraints 
+An Extended Supervised Term Weighting Method for Text Categorization[C], 
+Adaptive Personalized Recommendation Based on Adaptive Learning 
+Heuristics for Parallel Machine Scheduling with Deterioration Effect 
+粗糙集研究综述 
+分布的概率假设密度多目标跟踪 
+Experimental Generation of Continuous-Variable Hyperentanglement in an Optical Parametric Oscillator
+Accurate determination of the rotational constants of ultracold molecules using double photoassociation spectroscopy
+Determination of the hyperfine structure constants of the 87Rb and 85Rb 4D5/2 state and the isotope hyperfine anomaly
+Fast manipulation of spin-wave excitations in an atomic ensemble
+Cascaded entanglement enhancement 
+Field Induced Fluorescence Modulation of Single Molecules in PMMA Based on Electron Transfer
+Temperature measurement of cold atoms using single-atom transits and Monte Carlo simulation in a strongly coupled atom-cavity system
+连续变量六组份和八组份星型犆犾狌狊狋犲狉纠缠态光场产生系统 
+Single-photon modulation spectrum 
+Quantum storage of optical signals and coherent manipulation of quantum states based on electromagnetically induced transparency
+Harmonic Bath Averaged Hamiltonian: An efficient Tool To Capture Quantum Effects of Large Systems
+压缩态光场平衡零拍探测的位相锁定压缩态光场平衡零拍探测的位相锁定 
+Experimental Determination of the Rotational Constants of High-Lying Vibrational Levels of Ultracold Cs2 in the 0g- Purely Long-Range State 
+Annealing Temperature Dependence of the Nanosized Pits on Poly(methyl methacrylate) Surface
+Generation of blue light at 426nm by frequency doubling with a monolithic periodically poled KTiOPO4
+Intensity Noise Suppression of Light Field by Optoelectronic Feedback
+Applying Gaussian quantum discord to quantum key distribution
+Remote transfer of Gaussian quantum discord
+High resolution photoassociation spectra of an ultracold Cs2 long-range 0u+ (6S1/2+6P1/2) state 
+Rolling gears —hidden order in life 
+Suboptimal H∞ control of Hamiltonian systems 
+Controllability of switched linear systems 
+Stabilization of switched linear systems with bounded disturbances 
+A Conservative System for the Nonlinear String with Input-Output on Boundary
+Synchronization of a general delayed complex dynamical network via adaptive feedback 
+一类非线性系统的迭代学习控制 
+System identification using quantized data 
+Admissible Switched Control of Singular Systems
+Disturbance decoupling of switched nonlinear systems 
+Self-tuning Regulator for Hammerstein and Wiener Systems
+Controllability of Switched Affine Systems
+Input-to-state stability of switched nonlinear systems 
+A brief overview of the recent advances in complex networks 
+Boundary controllers and observers for schrodinger equation 
+Adaptive tracking and recursive identification for a class of Hammerstein systems 
+The well-posedness and regularity of the Euler-Bernoulli equation with variable coefficients 
+A Note on Robust Stability of Discrete-Time Adaptive Nonlinear Control
+Global controllability of switched nonlinear systems 
+基于ESO的多指机器手抓取物体的协同控制方法 
+未知参数线性系统在通讯限制下的反馈镇定 
+Design of multi-directional multi-scroll chaotic attractors based on fractional differential systems 
+The Best Possible Metropolis Type Algorithm
+Evolution Analysis of Life Systems via Entropy Theory
+On Logic-Based Intelligent Control
+Coefficient Identification for Error-in-Variables Systems
+Anti-control of bifurcation: non-smooth feedback approach 
+一类非线性随机系统的迭代学习控制 
+Practical Controllability of Switched Nonlinear Systems
+Stabilization of Switched Systems via Differential Inclusion
+Failure analysis on electric power system in our country based on power law
+Adaptive control for stochastic nonholonomic systems with strong nonlinear drifts 
+Adaptive Finite Time Stabilization of Nonholonomic Systems in Perturbed Chained Form
+切换系统进展 
+On the adaquacy of identified Cole-Cole models 
+Comments on “Identification of Hammerstein nonlinear ARMAX systems” 
+Maximum principle for the optimal control of an ablation-transpiration cooling system 
+Stabilization of a class of switched nonlinear systems 
+Disturbance decoupling of switched nonlinear systems 
+The Polynomial Solutions to Sylvester Matrix Equation 
+High-brightness wavelength-switchable ultrafast laser in remote air driven by intense mid-infrared laser fields 
+超强超短激光驱动的电子加速与太赫兹辐射研究进展 
+Generation and applications of polarization-controlled few-cycle laser pulses 
+Generation of extreme optical field with laser plasma interaction 
+Laser science 
+Cascaded Laser Wakefield Accelerators 
+Ultrafast nonlinear optics and strong field physics with wavelength-tunable mid-infrared fs laser pulses 
+大能量多周期飞秒激光器产生高亮度极紫外超连续谱的研究 
+Investigation on higher-order Kerr effects in femtosecond filamentation by third- and fifth-harmonic generation 
+Laser filament-based waveform-controlled THz sources 
+Progress on the development and application of femtosecond petawatt Ti:sapphire laser facility at SIOM 
+SIOM 10PW laser system development 
+Rapid prototyping of a 3D microfluidic mixer in glass using a femtosecond laser 
+Rapid Prototyping of Three-dimensional Microuidic Mixers in Glass by Femtosecond Laser Direct Writing 
+Spherical aberration dependant microstructures inside glass induced by femtosecond laser pulses 
+Optofluidic and optoelectronic integrations in glass by advanced femtosecond laser micromachining 
+新型光场的创立、操控及重要应用 
+Generation of tunable, narrow-bandwidth XUV coherent radiation in two-color laser fields 
+Coherent control and high order harmonic generation in a tailored laser field 
+短脉冲强激光产生辐射源的实验和理论研究 
+Isolated attosecond pulse generated by two color laser field 
+Observation of Laser-assisted snowfall in a cloud chamber 
+Nonlinear femtosecond laser application in advanced micromachining 
+Laser-filamentation-assisted water condensation in a cloud chamber 
+Latest developments in laser wakefield accelerators at SIOM 
+THZ emission from air plasma by IR few-cycle intense laser fields 
+Femtosecond laser direct writing of 3D micro- and nanofluidics for bio-applications 
+Harnessing Ultrafast Laser-induced Subwavelength Structures for Liquid Crystal Photonics Application 
+Extremely simple device for femtosecond pulse measurement in a broad spectral range 
+超强超短激光与强场物理近期研究进展; Recent advances in ultra-intense ultra- short pulse lasers and high field physics 
+Spatio-temporal manipulation of a femtosecond laser beam for 3D microfabrication applications 
+Coherent Control and High Order Harmonic Generation in a Shaped Ultrashort Intense Laser Field 
+Spatio-temporal shaping of femtosecond laser pulses for 3D microfabrication applications 
+Recent Progress and Application of Femtosecond Petawatt Laser in SIOM 
+Fast electrons and high order harmonics generation from ultraintense laser-plasma interaction 
+Generation of high-order harmonics with intense, ultrashort mid-IR laser pulses 
+High Order Harmonic Generation in a Shaped Ultrashort Intense Laser Field 
+Laser parameters required for high field physics 
+Recent progress in the study of high order harmonic generation at SIOM 
+Advances in strong field ionization and high-order harmonic generation at long wave-lengths 
+Recent progresses on laser acceleration and short-pulse generation at SIOM 
+Robust Generation of Isolated Attosecond Pulse against CEP Variation 
+High order harmonic generation in an intense few-cycle mid-infrared laser field 
+High power, high repetition rate diode-pumped femtosecond Yb:KGW oscillator 
+Driving-laser wavelength dependence of high-order harmonic generation in H-2(+) molecules 
+Sparse Differential Resultant 
+On the structure of compatible rational functions. 
+A new algorithm for computing comprehensive Groebner bases 
+Articulation-Constrained Skeleton Extraction 
+Arbitrary Shape Reconstruction from NC Sectional Data and Applications in Space Cutter Compensation 
+Ambient Isotopic Meshing for Implicit Algebraic Surfaces with Singularities 
+Financial rogue waves 
+Symbolic Versor Compression Algorithm. 
+Computing Comprehensive Groebner Systems and Comprehensive Groebner Bases Simultaneously. 
+Computing the Multiplicity Structure of an Isolated Singular Solution: Case of Breadth One 
+Approximate Determining singular solutions of polynomial systems via symbolic-numeric reduction to geometric involutive 
+Vector financial rogue waves 
+Visually Dynamic Presentation of Proofs in Plane Geometry，Part 2. Automated Generation of Visually Dynamic Presentations with the Full-Angle Method and the Deductive Database Method. 
+Tetrathiafulvalene-, 1,5-dioxynaphthalene-, and cyclobis(paraquat-p-phenylene)-based [2]rotaxanes with cyclohexyl and alkyl chains as spacers: Synthesis, Langmuir-Blodgett films, and electrical bistability 
+Formation and local electronic structure of e clusters on Si(111)-7x7 surfaces 
+Diversity Regularized Ensemble Pruning 
+Content-Sensitive Collection Snapping 
+Run-Time Systems Failure Prediction Via Proactive Monitoring 
+Relin: Relatedness And Informativeness-Based Centrality For Entity Summarization 
+One-Pass Auc Optimization 
+Steering Symbolic Execution To Less Traveled Paths 
+Continuous Scanning With Mobile Reader In Rfid Systems: An Experimental Study 
+An Empirical Study Of Vocabulary Relatedness And Its Application To Recommender Systems 
+JointCache: Collaborative Path Confusion Through Lightweight P2p Communication, The Work-in-Progress (WiP) session 
+When Does Cotraining Work In Real Data? 
+Cost-Sensitive Face Recognition 
+Isolation-Based Anomaly Detection 
+Low-Contention Data Structures 
+Normal form analysis of the in 
+一种基于Wiener模型的非线性预测 
+An?LMI?approach?to?robust stab 
+LMI conditions for quadratic a 
+Splicing system based genetic  
+Neuron based nonlinear PID con 
+A fault diagnosis method for t 
+Dynamic Process Fault Isolatio 
+An NT-MT combined method for g 
+Kinetic Model and Simulation A 
+Variable structure control wit 
+用于甲苯歧化与C9芳烃烷基转移过 
+催化重整集总动力学模型的建立及 
+基于以太网的工业控制网络实时通 
+基于模糊粗糙集和神经网络的短期 
+基于多目标进化算法的统一潮流控 
+递归核PCA及其在非线性过程自适 
+Optimal realizations of fixed- 
+A search algorithm for a class 
+Multiobjective optimization of 
+Correction to "Quadratic stabi 
+Fault Diagnosis for Batch Proc 
+Investigation of Dynamic Multi 
+Scheduling and control co-desi 
+Modeling, Simulation and Optim 
+Delay-dependent?robust control 
+D-stability for linear continu 
+用于工业测量与控制系统的EPA系 
+A multiagent-based particle sw 
+基于自组织映射模型的数据挖掘算 
+动态模拟在流程工业智能工厂实验 
+A New Approach To Design Relia 
+Application of the normal form 
+P systems based multi-objectiv 
+An optimization algorithm insp 
+Fault Isolation by Partial Dyn 
+Hierarchical Approach for Shor 
+对角CRAIMA模型多变量广义预测控 
+Modeling and control for distillation column processes 
+Charge systems modeling for fine paper production, July 
+网上集中采购的“捆绑-组合”两轮逆向拍卖的机制设计 
+Intelligent decoupling control and its applications to a wind tunnel system, 
+Nonfragile H∞ filtering of Continuous-Time Fuzzy Systems. 
+H∞ and mixed H2/H∞ control of discrete-time T–S fuzzy systems with local nonlinear models. 
+Switching Fuzzy Dynamic Output Feedback H∞ Control for Nonlinear Systems 
+Switching fuzzy dynamic output feedback H∞ control for nonlinear systems 
+布朗马丁,基于数据的故障诊断与容错控制：进展与可能的新方向 
+Self organized propagation of  
+Control of hot electrons in la 
+邀请报告 
+Cross-modulated laser wakefiel 
+Powerful terahertz emission fr 
+不同超短激光脉冲源的高精度主动 
+Power terahertz emission from  
+Carrier-envelop phase control  
+X-ray laser research in China 
+Manipulation of high power las 
+Recent activities of theory an 
+Activities on high field physi 
+Long distance channeling of in 
+Development of a compact 100TW 
+Observation of collimated emis 
+Long distance propagation of i 
+邀请报告 
+Transition of absorption mecha 
+A valley density profile for h 
+Phase control of 6fs laser pul 
+Quantitative characterization  
+Splitting and fusing of plasma 
+Generation of 7fs laser pulse  
+Acceleration of electrons in t 
+THz Activities in China 
+Emission direction of fast ele 
+Protein Structural Deformation 
+Surface electron acceleration  
+Phase mixing due to the ion mo 
+Synchrontron small angle X-ray 
+On the angular distribution of 
+Prolonged Excited-State lifeti 
+Spatial evolution of multiple  
+Dioed-pumped continous-wave Nd 
+Nanosecond-time-resolved infra 
+Control of filamentation induc 
+High Efficient and Stable Ring 
+The comparison study of diagno 
+Effects of shock waves on spat 
+Transient Spectrometer for Nea 
+Interaction of femtosecond las 
+Synchrotron small-angle X-ray  
+Electron injection and trappin 
+由激光在等离子体中激发的尾波场 
+Prolongation of life of laser- 
+Emerging Applications of UHI l 
+A transient molecular probe fo 
+飞秒与皮秒激光脉冲的主动同步及 
+基于啁啾镜色散补偿技术的超宽带 
+High-energy electrons produced 
+Determination of the topologic 
+Investigation of mechanisms of 
+强激光与等离子体相互作用中沿靶 
+完全无像差的超短激光脉冲展宽方法
+激光尾波场加速的新时代——准单 
+Successive particle accelerati 
+Demonstration of bulk accelera 
+Effects of resonant interminib 
+Simultaneous dual-wavelength Q 
+A fast electron jet along targ 
+Proton acceleration from micro 
+Interfacial potential and phot 
+Generation of surface electron 
+Transient Electrostatic Fields 
+Experimental synchronization o 
+A Transient Molecular Probe fo 
+The characteristics of confine 
+Prolongation of the fluorescen 
+Synchrotron small-angle X-ray  
+Protein Structural Deformation 
+Effects of laser intensities a 
+Generation of third harmonic e 
+Polarization-dependent superco 
+Diagnostic of dense plasmas us 
+Inverse bremsstrahlung absorpt 
+Dense Quasi-Monoenergetic Elec 
+Generation and propagation of  
+Terahertz radiation in superla 
+Calculation of plasma characte 
+Multi-photon absorption and op 
+Self-starting mode-locked pico 
+Observation of a Fast Electron 
+Bulk acceleration of ions in i 
+Paper airplane propelled by la 
+Passively mode-locked Nd:GdVO4 
+Thomson Scattering Process in  
+Intensity-dependent resonance  
+Characteristics of Nd:GdVO4 La 
+Compact Diode-Pumped Continus- 
+台面型电子加速器- - -激光尾波 
+Simulations of the output of a 
+Characteristic investigation o 
+Enhancement of coupling coeffi 
+Grazing Incidence Pumping X-Ra 
+Simulations of a grazing-incid 
+Laser Diode-Pumped Nd:LuVO4 Ac 
+Emission of Electromagnetic Pu 
+Broadening of terahertz spectr 
+Size-dependent distribution of 
+利用韧致辐射诊断激光等离子体相 
+超热电子产生的靶后相干渡越辐射 
+空气中激光等离子体通道的荧光探 
+强激光与高密度气体相互作用中电 
+相对论效应对激光在等离子体中的 
+Interaction of Light Filaments 
+激光脉冲在气体中产生的离化波前 
+近相对论强度激光与薄膜靶相互作 
+Wideband description of the finite-ground coplanar waveguide structures (FGCPW) with discontinuities 
+Transient analysis of lossy nonuniform transmission lines using a time-step integration method 
+New differential stacked spiral inductor on silicon with its application in VCO 
+Wideband description of the finite-ground coplanar waveguide structures (FGCPW) with discontinuities 
+Multi-Dimensional Asymptotic Waveform Evaluation Method and Fast Derivation 
+Face Recognition Using Ordinal 
+Ontology-based Hierarchical Co 
+Sinusoidal+All-Pole Modificati 
+A Semantic Image Category for  
+A New Approach to Feature Sele 
+High accuracy handwritten Chin 
+Robust commercial Retrieval in 
+Context Enhancement of Nightti 
+Comparison of Similarity Measu 
+A Framework for Providing Adap 
+Trajectory Series Analysis bas 
+Gait Analysis for Human Identi 
+Multi-Camera Calibration with  
+A Hierarchical Parsing Approac 
+Learning Multi-scale Block Loc 
+All-Path Decoding Algorithm fo 
+Similarity Based Vehicle Traje 
+A Unified Framework for Semant 
+8-Point Algorithm Revisited: F 
+Voice Conversion Based on Join 
+Graph based Discriminative Lea 
+Pitch Prediction from MFCC Vec 
+An Effective Approach for Spee 
+Applying Restrained Likelihood 
+Harmonics Template and Applica 
+Modelling the Effect of View V 
+A robust Method for TV Logo Tr 
+Prosodic Words Prediction from 
+Robust speaking Face Identific 
+A new Multimedia Message Custo 
+Weighted Co-SVM for image Retr 
+Jensen-Shannon Boosting Learni 
+Selective-LPC based Representa 
+One-pass Coarse-to-Fine Segmen 
+An Affine Invariant of Paralle 
+Investigation of Emotive Expre 
+Unvoiced Landmark Detection fo 
+Various Aligned Models In Chin 
+Chinese Named Entity Recogniti 
+Robust Visual Tracking Based o 
+Automatic 3D Face Modeling fro 
+A Real-Time Hand Gesture Recog 
+LDA-based compound distance fo 
+Ordinal Palmprint Represention 
+Cast Shadow Removal with GMM f 
+From Motion Patterns to Visual 
+Detecting and Tracking Distant 
+A hybrid generative-discrimina 
+Sentiment Classification throu 
+Word Sense Disambiguation thro 
+Complex Activity Representatio 
+Local Motion Analysis and Its  
+Night human recognition based  
+Cast Shadow Removal Combining  
+Human Activity Recognition Bas 
+A Geometric Contour Framework  
+"A Geometric Active Contour Fr 
+Occlusion Robust Face Recognit 
+Logo Retrieval with Latent Sem 
+Geometric Invariants and Appli 
+Coloring the Speech Utterance  
+State-Correlated Duration Mode 
+EDA Approcah for Model Based L 
+A Hybrid Approach to Chinese B 
+Multi-Pitch Detection for Co-C 
+“Research on Adaptive Step De 
+Recognize Multi-people Interac 
+Classifier Combining Rules Und 
+Improving Performance of Refle 
+Learning Multi-View Face Subsp 
+A Split-merge Based Region Gro 
+Whole Brain Functional Connect 
+Hippocampal Shape Analysis of  
+Camera Calibration with Moving 
+People Tracking Based on Motio 
+Single-Trial Variable Model fo 
+Do Singular Values Contains Ad 
+Spontaneous Activity Associate 
+A Note on the Convergence of t 
+A Modified Temporal Self-Corre 
+Asymmetry Analysis of Cingulum 
+A Real-time Detecting Tracking 
+Ensemble-based Discriminant Le 
+3D Model Base Vehicle Tracking 
+Recent Developments in Human M 
+Kernel based Nonlinear Discrim 
+Improving Iris Recognition Acc 
+Camera Calibration and 3D Reco 
+Automated Short Proof Generati 
+Face annotation for family pho 
+A Survey on Object Motion and  
+Local Intensity Variation Anal 
+Efficient Iris Recognition by  
+Design and Performance Studies 
+基于中间转换格式的中英文语言生 
+The Parallel Genetic Algorithm 
+A?Comparative Study of Global  
+Regional Coherence Changes in  
+Handedness-Related Functional  
+Regional Honogeneity Based App 
+Semantic-based Surveillance Vi 
+Altered Resting State Function 
+Ensemble Learning for Independ 
+An Approach to Automatic Acqui 
+Characterizing The Dynamic Con 
+Diffusion Tensor Tractography  
+Combining Local Features for R 
+Structure and Motion of Nonrig 
+A Robust Method toRecognize Cr 
+Reconstruction of Structured S 
+Supervised kernel locality pre 
+Altered Functional Connectivit 
+Diffusion Tensor Imaging in th 
+Automated Short Proof Generati 
+Can Image Measurement Errors b 
+Functional Dysconnectivity of  
+A SVD-Based Watermarking Schem 
+Esub8: A novel tool to predict 
+Affine Invariant Classificatio 
+Catadioptric Camera Calibratio 
+Alignment of Two Dimensional E 
+Region Growing Method for the  
+Global motion Model for stereo 
+Intensity-Based Robust Similar 
+A Combinational Feature Select 
+Silhoutte Analysis based Gait  
+An Evolutionary Tabu Search fo 
+A Modified Gabor Filter Design 
+Brief Review of Invariant Text 
+A New Easy Camera Calibration  
+Personal Identification Based  
+Illumination Invariant Face Re 
+A System for learning statisti 
+Altered Baseline Brain Activit 
+Visual Vehicle Tracking Algori 
+A New Constraint on the Imaged 
+Kinematics-based Tracking of H 
+Fusion of Static and Dynamic B 
+Face Recognition Using Kernel  
+Nonrigid Registration of Brain 
+Fingerprint Registration by Ma 
+Camera Calibration and Direct  
+Stabilities of Negative Correl 
+Non-rigid Registration of Medi 
+Quantitative Analysis along th 
+Exploring Susceptibility Genes 
+A Co-Chunk based method for Sp 
+Mosaic Representations of Vide 
+Principal Axis-Based Correspon 
+The Impossibility of Affine Re 
+A hierarchical self-organizing 
+Single View Metrology from Sce 
+Volumetric Segmentation of the 
+Changes in Hippocampal Connect 
+Functional Disintegration in P 
+Asymmetry of Prefrontal Cortic 
+A Neural Network Approach to S 
+Automatic Gait Recognition bas 
+Normalization-cooperated gradi 
+PnP Revisited 
+Head tracking Using Shape and  
+Parametric Reconstruction of G 
+Euclidean Reconstruction of a  
+Improving Depth Resolution of  
+Characterizing Anatomical Diff 
+Implementation and Experimenta 
+A Neural Network Approach to S 
+A?Comparative Study of Global  
+The Number of Independent Krup 
+A New Robust Circular Gabor Ba 
+Modulation of Functional Conne 
+Toward Practical Spoken Langua 
+Discriminative Analysis of Rel 
+The Relationship within and be 
+Plasticity of The Corticospina 
+Side and Handedness Effects on 
+Dual Cross-Media Relevance Mod 
+Human Behavior Consistent Rele 
+A Mid-Level Scene Change Repre 
+Shape and Texture Based Deform 
+Image segmentation Using Co-EM 
+Multiple Similarities Based Ke 
+Automatic Moving Object Segmen 
+Semantic Knowledge Extraction  
+Highlight Ranking for Sports V 
+Efficient Night Gait Recogniti 
+Motion Detection in driving En 
+Topology-preserved Diffusion D 
+Dynamic Similarity Kernel for  
+Providing On-Demand Sports Vid 
+Discriminative analysis of ear 
+Gait Recognition Based on Fusi 
+Fast global Motion Estimation  
+A Mid-Level Scene Change Repre 
+A General Sufficient Condition 
+Prosody Conversion from Neutra 
+A Note on the Number of Soluti 
+Multi-context Fuzzy Clustering 
+Widespread Functional Dysconne 
+Protein Folding Simulations of 
+The Invariant Representations  
+PartitionSim: A parallel simulator for many-cores 
+A compiler-assisted runtime-prefetching scheme for heterogeneous platforms 
+Computing for the Masses 
+PartitionSim: A parallel simulator for many-cores 
+院士寄语 
+带有非线性干扰的不确定脉冲型切换系统的保性能控制 
+不确定脉冲型切换系统的内模跟踪控制 
+Intelligent&nbsp;Optimization&nbsp;of&nbsp;RLV&nbsp;Pre-final&nbsp;Phase&nbsp;Trajectory 
+Optimal&nbsp;Bank&nbsp;Reversal&nbsp;for&nbsp;High-Lifting&nbsp;Reentry&nbsp;Vehicles 
+基于改进遗传算法重采样的粒子滤波算法 
+异类导弹协同攻击策略研究 
+Modeling&nbsp;Method&nbsp;for&nbsp;Gliding&nbsp;Reentry&nbsp;Vehicle&nbsp;via&nbsp;Model&nbsp;Migration 
+标准轨道与落点预测复合的再入制导方法 
+Onboard&nbsp;Longitudinal&nbsp;Trajectory&nbsp;Planning&nbsp;for&nbsp;Terminal&nbsp;Area&nbsp;Energy&nbsp;Management&nbsp;of&nbsp;Reusable&nbsp;Launch&nbsp;Vehicles 
+Comparison of compensation methods on RLG temperature error and their application in POS 
+Tracking Trajectory of Heterogenous Multi-Agent Systems with 
+Land Classification From LiDAR Full-waveforms Based on Multi-class Support Vector Machines 
+Impact&nbsp;of&nbsp;Attitude&nbsp;Measurement&nbsp;Errors&nbsp;on&nbsp;Laser&nbsp;Footprints&nbsp;Positioning&nbsp;Accuracy 
+Terrain&nbsp;Slope&nbsp;Calculation&nbsp;from&nbsp;Waveform&nbsp;of&nbsp;Airborne&nbsp;Lidar 
+Slope&nbsp;estimations&nbsp;in&nbsp;Forest&nbsp;Area&nbsp;from&nbsp;Waveform&nbsp;and&nbsp;DEM 
+Active&nbsp;fault&nbsp;tolerant&nbsp;control&nbsp;for&nbsp;a&nbsp;class&nbsp;of&nbsp;discrete-time&nbsp;switched&nbsp;linear&nbsp;systems 
+分布式ＰＯＳ传递对准中的误差检测与补偿 
+Evaluation&nbsp;function&nbsp;based&nbsp;fault&nbsp;detection&nbsp;for&nbsp;linear&nbsp;discrete-time&nbsp;stochastic&nbsp;system 
+具有多测量数据包丢失的线性离散时变系统最优故障检测滤波器设计 
+Fault&nbsp;Detection&nbsp;for&nbsp;a&nbsp;Class&nbsp;of&nbsp;Uncertain&nbsp;Linear&nbsp;Discrete-time&nbsp;Systems&nbsp;with&nbsp;Intermittent&nbsp;Measurements&nbsp;and&nbsp;Probabilistic&nbsp;Actuator&nbsp;Failures 
+Distributed consensus observers based H∞control for continuous systems with sensor and actuator networks
+变时滞输入挠性航天器系统DOBC
+基于变结构的直流电机精确角度控制 
+On&nbsp;designing&nbsp;fault&nbsp;detection&nbsp;filter&nbsp;for&nbsp;discrete-time&nbsp;nonlinear&nbsp;Markovian&nbsp;jump&nbsp;systems&nbsp;with&nbsp;missing&nbsp;measurements 
+Fault-tolerant&nbsp;Reconfigurable&nbsp;Control&nbsp;for&nbsp;Reusable&nbsp;Launch&nbsp;Vehicle&nbsp;Using&nbsp;NESO 
+Design&nbsp;of&nbsp;Wireless&nbsp;Sensor&nbsp;Networks&nbsp;Navigation&nbsp;System 
+An&nbsp;Automatic&nbsp;Algorithm&nbsp;for&nbsp;Slope&nbsp;Estimation&nbsp;from&nbsp;Repeat&nbsp;Tracks&nbsp;of&nbsp;Icesat/Glas 
+On&nbsp;line&nbsp;evaluation&nbsp;of&nbsp;the&nbsp;inertial&nbsp;sensor&nbsp;qualities&nbsp;for&nbsp;INS/GPS&nbsp;systems 
+克服传感器失效故障的多节点无线容错控制 
+基于遗传算法的新型三维控制分配方法研究 
+Trajectory&nbsp;tracking&nbsp;for&nbsp;RLV&nbsp;Terminal&nbsp;Area&nbsp;Energy&nbsp;Management&nbsp;Phase <br /> <br class="p0" /> based&nbsp;on&nbsp;LQR 
+大展弦比二元机翼颤振抑制主动控制方法研究
+基于ＰＭＩ滤波器的线性时变系统故障估计 
+The&nbsp;internal&nbsp;model&nbsp;control&nbsp;design&nbsp;of&nbsp;three-axis&nbsp;inertially&nbsp;stabilized&nbsp;platform&nbsp;for&nbsp;airborne&nbsp;remote&nbsp;sensing 
+A&nbsp;nonlinear&nbsp;version&nbsp;of&nbsp;the&nbsp;generalized&nbsp;likelihood&nbsp;ratio&nbsp;test 
+Fault tolerant and anti-disturbance sliding mode
+Image&nbsp;Information&nbsp;Based&nbsp;Guidance&nbsp;System&nbsp;Architecture&nbsp;for&nbsp;Intercepting&nbsp;a&nbsp;Maneuvring&nbsp;Targe 
+Localization&nbsp;mechanisms&nbsp;and&nbsp;location&nbsp;methods&nbsp;of&nbsp;the&nbsp;disturbance&nbsp;sensor&nbsp;based&nbsp;on&nbsp;phase-sensitive&nbsp;OTDR 
+Computationally efficient simultaneous policy update algorithm for nonlinear H&infin;= state feedback control with Galerkin&rsquo;s method
+An&nbsp;Analysis&nbsp;on&nbsp;the&nbsp;Optimization&nbsp;of&nbsp;Closed-Loop&nbsp;Detection&nbsp;Method&nbsp;for&nbsp;Optical&nbsp;Voltage&nbsp;Sensor&nbsp;Based&nbsp;on&nbsp;Pockels&nbsp;Effect 
+A m
+Analysis&nbsp;and&nbsp;simulation&nbsp;of&nbsp;a&nbsp;fiber&nbsp;optical&nbsp;gyroscope&nbsp;with&nbsp;Shupe&nbsp;error&nbsp;compensated&nbsp;optically&nbsp; 

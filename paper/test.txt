@@ -1,3 +1,3 @@
-﻿Hybrid Satellite-Aerial-Terrestrial Networks for Public Safety
+Hybrid Satellite-Aerial-Terrestrial Networks for Public Safety
 A Multi-objective Particle Swarm Optimization for Service Composition 
 Sensing   Performance of Improved Cyclostationary Detector with MultipleCorrelated   Antennas over Nakagami Fading Channel
